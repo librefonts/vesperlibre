@@ -1,0 +1,4163 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=4 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=16 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="7"/>
+            <FeatureIndex index="2" value="14"/>
+            <FeatureIndex index="3" value="21"/>
+            <FeatureIndex index="4" value="28"/>
+            <FeatureIndex index="5" value="35"/>
+            <FeatureIndex index="6" value="42"/>
+            <FeatureIndex index="7" value="49"/>
+            <FeatureIndex index="8" value="56"/>
+            <FeatureIndex index="9" value="66"/>
+            <FeatureIndex index="10" value="73"/>
+            <FeatureIndex index="11" value="80"/>
+            <FeatureIndex index="12" value="87"/>
+            <FeatureIndex index="13" value="94"/>
+            <FeatureIndex index="14" value="101"/>
+            <FeatureIndex index="15" value="108"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="dev2"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=16 -->
+            <FeatureIndex index="0" value="1"/>
+            <FeatureIndex index="1" value="8"/>
+            <FeatureIndex index="2" value="15"/>
+            <FeatureIndex index="3" value="22"/>
+            <FeatureIndex index="4" value="29"/>
+            <FeatureIndex index="5" value="36"/>
+            <FeatureIndex index="6" value="43"/>
+            <FeatureIndex index="7" value="50"/>
+            <FeatureIndex index="8" value="57"/>
+            <FeatureIndex index="9" value="67"/>
+            <FeatureIndex index="10" value="74"/>
+            <FeatureIndex index="11" value="81"/>
+            <FeatureIndex index="12" value="88"/>
+            <FeatureIndex index="13" value="95"/>
+            <FeatureIndex index="14" value="102"/>
+            <FeatureIndex index="15" value="109"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=1 -->
+          <LangSysRecord index="0">
+            <LangSysTag value="MAR "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=17 -->
+              <FeatureIndex index="0" value="2"/>
+              <FeatureIndex index="1" value="9"/>
+              <FeatureIndex index="2" value="16"/>
+              <FeatureIndex index="3" value="23"/>
+              <FeatureIndex index="4" value="30"/>
+              <FeatureIndex index="5" value="37"/>
+              <FeatureIndex index="6" value="44"/>
+              <FeatureIndex index="7" value="51"/>
+              <FeatureIndex index="8" value="58"/>
+              <FeatureIndex index="9" value="63"/>
+              <FeatureIndex index="10" value="68"/>
+              <FeatureIndex index="11" value="75"/>
+              <FeatureIndex index="12" value="82"/>
+              <FeatureIndex index="13" value="89"/>
+              <FeatureIndex index="14" value="96"/>
+              <FeatureIndex index="15" value="103"/>
+              <FeatureIndex index="16" value="110"/>
+            </LangSys>
+          </LangSysRecord>
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="2">
+        <ScriptTag value="grek"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=16 -->
+            <FeatureIndex index="0" value="3"/>
+            <FeatureIndex index="1" value="10"/>
+            <FeatureIndex index="2" value="17"/>
+            <FeatureIndex index="3" value="24"/>
+            <FeatureIndex index="4" value="31"/>
+            <FeatureIndex index="5" value="38"/>
+            <FeatureIndex index="6" value="45"/>
+            <FeatureIndex index="7" value="52"/>
+            <FeatureIndex index="8" value="59"/>
+            <FeatureIndex index="9" value="69"/>
+            <FeatureIndex index="10" value="76"/>
+            <FeatureIndex index="11" value="83"/>
+            <FeatureIndex index="12" value="90"/>
+            <FeatureIndex index="13" value="97"/>
+            <FeatureIndex index="14" value="104"/>
+            <FeatureIndex index="15" value="111"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="3">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=16 -->
+            <FeatureIndex index="0" value="4"/>
+            <FeatureIndex index="1" value="11"/>
+            <FeatureIndex index="2" value="18"/>
+            <FeatureIndex index="3" value="25"/>
+            <FeatureIndex index="4" value="32"/>
+            <FeatureIndex index="5" value="39"/>
+            <FeatureIndex index="6" value="46"/>
+            <FeatureIndex index="7" value="53"/>
+            <FeatureIndex index="8" value="60"/>
+            <FeatureIndex index="9" value="70"/>
+            <FeatureIndex index="10" value="77"/>
+            <FeatureIndex index="11" value="84"/>
+            <FeatureIndex index="12" value="91"/>
+            <FeatureIndex index="13" value="98"/>
+            <FeatureIndex index="14" value="105"/>
+            <FeatureIndex index="15" value="112"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=2 -->
+          <LangSysRecord index="0">
+            <LangSysTag value="MOL "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=17 -->
+              <FeatureIndex index="0" value="5"/>
+              <FeatureIndex index="1" value="12"/>
+              <FeatureIndex index="2" value="19"/>
+              <FeatureIndex index="3" value="26"/>
+              <FeatureIndex index="4" value="33"/>
+              <FeatureIndex index="5" value="40"/>
+              <FeatureIndex index="6" value="47"/>
+              <FeatureIndex index="7" value="54"/>
+              <FeatureIndex index="8" value="61"/>
+              <FeatureIndex index="9" value="64"/>
+              <FeatureIndex index="10" value="71"/>
+              <FeatureIndex index="11" value="78"/>
+              <FeatureIndex index="12" value="85"/>
+              <FeatureIndex index="13" value="92"/>
+              <FeatureIndex index="14" value="99"/>
+              <FeatureIndex index="15" value="106"/>
+              <FeatureIndex index="16" value="113"/>
+            </LangSys>
+          </LangSysRecord>
+          <LangSysRecord index="1">
+            <LangSysTag value="ROM "/>
+            <LangSys>
+              <ReqFeatureIndex value="65535"/>
+              <!-- FeatureCount=17 -->
+              <FeatureIndex index="0" value="6"/>
+              <FeatureIndex index="1" value="13"/>
+              <FeatureIndex index="2" value="20"/>
+              <FeatureIndex index="3" value="27"/>
+              <FeatureIndex index="4" value="34"/>
+              <FeatureIndex index="5" value="41"/>
+              <FeatureIndex index="6" value="48"/>
+              <FeatureIndex index="7" value="55"/>
+              <FeatureIndex index="8" value="62"/>
+              <FeatureIndex index="9" value="65"/>
+              <FeatureIndex index="10" value="72"/>
+              <FeatureIndex index="11" value="79"/>
+              <FeatureIndex index="12" value="86"/>
+              <FeatureIndex index="13" value="93"/>
+              <FeatureIndex index="14" value="100"/>
+              <FeatureIndex index="15" value="107"/>
+              <FeatureIndex index="16" value="114"/>
+            </LangSys>
+          </LangSysRecord>
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=115 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="2">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="3">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="4">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="5">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="6">
+        <FeatureTag value="aalt"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="7">
+        <FeatureTag value="abvs"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="21"/>
+          <LookupListIndex index="1" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="8">
+        <FeatureTag value="abvs"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="21"/>
+          <LookupListIndex index="1" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="9">
+        <FeatureTag value="abvs"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="21"/>
+          <LookupListIndex index="1" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="10">
+        <FeatureTag value="abvs"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="21"/>
+          <LookupListIndex index="1" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="11">
+        <FeatureTag value="abvs"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="21"/>
+          <LookupListIndex index="1" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="12">
+        <FeatureTag value="abvs"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="21"/>
+          <LookupListIndex index="1" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="13">
+        <FeatureTag value="abvs"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="21"/>
+          <LookupListIndex index="1" value="22"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="14">
+        <FeatureTag value="akhn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="15">
+        <FeatureTag value="akhn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="16">
+        <FeatureTag value="akhn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="17">
+        <FeatureTag value="akhn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="18">
+        <FeatureTag value="akhn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="19">
+        <FeatureTag value="akhn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="20">
+        <FeatureTag value="akhn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="14"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="21">
+        <FeatureTag value="calt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="22">
+        <FeatureTag value="calt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="23">
+        <FeatureTag value="calt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="24">
+        <FeatureTag value="calt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="25">
+        <FeatureTag value="calt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="26">
+        <FeatureTag value="calt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="27">
+        <FeatureTag value="calt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="10"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="28">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="29">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="30">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="31">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="32">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="33">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="34">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="3"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="35">
+        <FeatureTag value="cjct"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="36">
+        <FeatureTag value="cjct"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="37">
+        <FeatureTag value="cjct"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="38">
+        <FeatureTag value="cjct"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="39">
+        <FeatureTag value="cjct"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="40">
+        <FeatureTag value="cjct"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="41">
+        <FeatureTag value="cjct"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="19"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="42">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="43">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="44">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="45">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="46">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="47">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="48">
+        <FeatureTag value="frac"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="8"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="49">
+        <FeatureTag value="half"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="50">
+        <FeatureTag value="half"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="51">
+        <FeatureTag value="half"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="52">
+        <FeatureTag value="half"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="53">
+        <FeatureTag value="half"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="54">
+        <FeatureTag value="half"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="55">
+        <FeatureTag value="half"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="18"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="56">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="57">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="58">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="59">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="60">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="61">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="62">
+        <FeatureTag value="liga"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="11"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="63">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="6"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="64">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="5"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="65">
+        <FeatureTag value="locl"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="4"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="66">
+        <FeatureTag value="nukt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="67">
+        <FeatureTag value="nukt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="68">
+        <FeatureTag value="nukt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="69">
+        <FeatureTag value="nukt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="70">
+        <FeatureTag value="nukt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="71">
+        <FeatureTag value="nukt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="72">
+        <FeatureTag value="nukt"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="13"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="73">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="74">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="75">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="76">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="77">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="78">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="79">
+        <FeatureTag value="ordn"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="9"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="80">
+        <FeatureTag value="pres"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="81">
+        <FeatureTag value="pres"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="82">
+        <FeatureTag value="pres"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="83">
+        <FeatureTag value="pres"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="84">
+        <FeatureTag value="pres"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="85">
+        <FeatureTag value="pres"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="86">
+        <FeatureTag value="pres"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="20"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="87">
+        <FeatureTag value="rkrf"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="16"/>
+          <LookupListIndex index="1" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="88">
+        <FeatureTag value="rkrf"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="16"/>
+          <LookupListIndex index="1" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="89">
+        <FeatureTag value="rkrf"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="16"/>
+          <LookupListIndex index="1" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="90">
+        <FeatureTag value="rkrf"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="16"/>
+          <LookupListIndex index="1" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="91">
+        <FeatureTag value="rkrf"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="16"/>
+          <LookupListIndex index="1" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="92">
+        <FeatureTag value="rkrf"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="16"/>
+          <LookupListIndex index="1" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="93">
+        <FeatureTag value="rkrf"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="16"/>
+          <LookupListIndex index="1" value="17"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="94">
+        <FeatureTag value="rphf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="95">
+        <FeatureTag value="rphf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="96">
+        <FeatureTag value="rphf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="97">
+        <FeatureTag value="rphf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="98">
+        <FeatureTag value="rphf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="99">
+        <FeatureTag value="rphf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="100">
+        <FeatureTag value="rphf"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="15"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="101">
+        <FeatureTag value="ss02"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="102">
+        <FeatureTag value="ss02"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="103">
+        <FeatureTag value="ss02"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="104">
+        <FeatureTag value="ss02"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="105">
+        <FeatureTag value="ss02"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="106">
+        <FeatureTag value="ss02"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="107">
+        <FeatureTag value="ss02"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="12"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="108">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="109">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="110">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="111">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="112">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="113">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="114">
+        <FeatureTag value="sups"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="7"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=37 -->
+      <Lookup index="0">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="A" out="ordfeminine"/>
+          <Substitution in="O" out="ordmasculine"/>
+          <Substitution in="Scedilla" out="Scommaaccent"/>
+          <Substitution in="a" out="ordfeminine"/>
+          <Substitution in="anusvaradeva" out="anusvaradeva.001"/>
+          <Substitution in="candrabindudeva" out="candrabindudeva.imatra"/>
+          <Substitution in="o" out="ordmasculine"/>
+          <Substitution in="one" out="onesuperior"/>
+          <Substitution in="scedilla" out="scommaaccent"/>
+          <Substitution in="shadeva" out="shadeva.loclMAR"/>
+          <Substitution in="three" out="threesuperior"/>
+          <Substitution in="two" out="twosuperior"/>
+          <Substitution in="uni0930094D" out="uni0930094D.loclMAR"/>
+          <Substitution in="uni0932" out="uni0932.loclMAR"/>
+          <Substitution in="uni0940" out="uni0940.02"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="3"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <AlternateSubst index="0" Format="1">
+          <AlternateSet glyph="uni0936094D">
+            <Alternate glyph="uni0936094D.loclMAR"/>
+            <Alternate glyph="uni0936094D.ss02"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni093F">
+            <Alternate glyph="uni093F.0"/>
+            <Alternate glyph="uni093F"/>
+            <Alternate glyph="uni093F.02"/>
+            <Alternate glyph="uni093F.03"/>
+            <Alternate glyph="uni093F.05"/>
+            <Alternate glyph="uni093F.08"/>
+            <Alternate glyph="uni093F.10"/>
+            <Alternate glyph="uni093F.15"/>
+            <Alternate glyph="uni093F0930094D"/>
+            <Alternate glyph="uni093F0930094D0902"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni093F.0">
+            <Alternate glyph="uni093F0930094D.0"/>
+            <Alternate glyph="uni093F0930094D0902.0"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni093F.01">
+            <Alternate glyph="uni093F0930094D.01"/>
+            <Alternate glyph="uni093F0930094D0902.01"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni093F.02">
+            <Alternate glyph="uni093F0930094D.02"/>
+            <Alternate glyph="uni093F0930094D0902.02"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni093F.03">
+            <Alternate glyph="uni093F0930094D.03"/>
+            <Alternate glyph="uni093F0930094D0902.03"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni093F.05">
+            <Alternate glyph="uni093F0930094D.05"/>
+            <Alternate glyph="uni093F0930094D0902.05"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni093F.08">
+            <Alternate glyph="uni093F0930094D.08"/>
+            <Alternate glyph="uni093F0930094D0902.08"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni093F.10">
+            <Alternate glyph="uni093F0930094D.10"/>
+            <Alternate glyph="uni093F0930094D0902.10"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni093F.15">
+            <Alternate glyph="uni093F0930094D.15"/>
+            <Alternate glyph="uni093F0930094D0902.15"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni093F.20">
+            <Alternate glyph="uni093F0930094D.20"/>
+            <Alternate glyph="uni093F0930094D0902.20"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni093F.25">
+            <Alternate glyph="uni093F0930094D.25"/>
+            <Alternate glyph="uni093F0930094D0902.25"/>
+          </AlternateSet>
+          <AlternateSet glyph="uni093F.30">
+            <Alternate glyph="uni093F0930094D.30"/>
+            <Alternate glyph="uni093F0930094D0902.30"/>
+          </AlternateSet>
+        </AlternateSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="bhadeva">
+            <Ligature components="uni0930094D" glyph="bhadeva"/>
+            <Ligature components="uni0930094D0902" glyph="bhadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="cadeva">
+            <Ligature components="uni0930094D" glyph="cadeva"/>
+            <Ligature components="uni0930094D0902" glyph="cadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="chadeva">
+            <Ligature components="uni0930094D" glyph="chadeva"/>
+            <Ligature components="uni0930094D0902" glyph="chadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="dadeva">
+            <Ligature components="uni0930094D" glyph="dadeva"/>
+            <Ligature components="uni0930094D0902" glyph="dadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="ddadeva">
+            <Ligature components="uni0930094D" glyph="ddadeva"/>
+            <Ligature components="uni0930094D0902" glyph="ddadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="dddhadeva">
+            <Ligature components="uni0930094D" glyph="dddhadeva"/>
+            <Ligature components="uni0930094D0902" glyph="dddhadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="ddhadeva">
+            <Ligature components="uni0930094D" glyph="ddhadeva"/>
+            <Ligature components="uni0930094D0902" glyph="ddhadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="dhadeva">
+            <Ligature components="uni0930094D" glyph="dhadeva"/>
+            <Ligature components="uni0930094D0902" glyph="dhadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="fadeva">
+            <Ligature components="uni0930094D" glyph="fadeva"/>
+            <Ligature components="uni0930094D0902" glyph="fadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="gadeva">
+            <Ligature components="uni0930094D" glyph="gadeva"/>
+            <Ligature components="uni0930094D0902" glyph="gadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="ghadeva">
+            <Ligature components="uni0930094D" glyph="ghadeva"/>
+            <Ligature components="uni0930094D0902" glyph="ghadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="ghhadeva">
+            <Ligature components="uni0930094D" glyph="ghhadeva"/>
+            <Ligature components="uni0930094D0902" glyph="ghhadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="hadeva">
+            <Ligature components="uni0930094D" glyph="hadeva"/>
+            <Ligature components="uni0930094D0902" glyph="hadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="jadeva">
+            <Ligature components="uni0930094D" glyph="jadeva"/>
+            <Ligature components="uni0930094D0902" glyph="jadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="jhadeva">
+            <Ligature components="uni0930094D" glyph="jhadeva"/>
+            <Ligature components="uni0930094D0902" glyph="jhadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="kadeva">
+            <Ligature components="uni0930094D" glyph="kadeva"/>
+            <Ligature components="uni0930094D0902" glyph="kadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="khadeva">
+            <Ligature components="uni0930094D" glyph="khadeva"/>
+            <Ligature components="uni0930094D0902" glyph="khadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="khhadeva">
+            <Ligature components="uni0930094D" glyph="khhadeva"/>
+            <Ligature components="uni0930094D0902" glyph="khhadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="lladeva">
+            <Ligature components="uni0930094D" glyph="lladeva"/>
+            <Ligature components="uni0930094D0902" glyph="lladeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="llladeva">
+            <Ligature components="uni0930094D" glyph="llladeva"/>
+            <Ligature components="uni0930094D0902" glyph="llladeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="madeva">
+            <Ligature components="uni0930094D" glyph="madeva"/>
+            <Ligature components="uni0930094D0902" glyph="madeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="nadeva">
+            <Ligature components="uni0930094D" glyph="nadeva"/>
+            <Ligature components="uni0930094D0902" glyph="nadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="nadeva.post2">
+            <Ligature components="uni0930094D" glyph="nadeva.post2"/>
+            <Ligature components="uni0930094D0902" glyph="nadeva.post2"/>
+          </LigatureSet>
+          <LigatureSet glyph="ngadeva">
+            <Ligature components="uni0930094D" glyph="ngadeva"/>
+            <Ligature components="uni0930094D0902" glyph="ngadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="nnadeva">
+            <Ligature components="uni0930094D" glyph="nnadeva"/>
+            <Ligature components="uni0930094D0902" glyph="nnadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="nnnadeva">
+            <Ligature components="uni0930094D" glyph="nnnadeva"/>
+            <Ligature components="uni0930094D0902" glyph="nnnadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="nyadeva">
+            <Ligature components="uni0930094D" glyph="nyadeva"/>
+            <Ligature components="uni0930094D0902" glyph="nyadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="padeva">
+            <Ligature components="uni0930094D" glyph="padeva"/>
+            <Ligature components="uni0930094D0902" glyph="padeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="qadeva">
+            <Ligature components="uni0930094D" glyph="qadeva"/>
+            <Ligature components="uni0930094D0902" glyph="qadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="radeva">
+            <Ligature components="uni0930094D" glyph="radeva"/>
+            <Ligature components="uni0930094D0902" glyph="radeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="radeva.post2">
+            <Ligature components="uni0930094D" glyph="radeva.post2"/>
+            <Ligature components="uni0930094D0902" glyph="radeva.post2"/>
+          </LigatureSet>
+          <LigatureSet glyph="rhadeva">
+            <Ligature components="uni0930094D" glyph="rhadeva"/>
+            <Ligature components="uni0930094D0902" glyph="rhadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="rradeva">
+            <Ligature components="uni0930094D" glyph="rradeva"/>
+            <Ligature components="uni0930094D0902" glyph="rradeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="sadeva">
+            <Ligature components="uni0930094D" glyph="sadeva"/>
+            <Ligature components="uni0930094D0902" glyph="sadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="shadeva">
+            <Ligature components="uni0930094D" glyph="shadeva"/>
+            <Ligature components="uni0930094D0902" glyph="shadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="shadeva.loclMAR">
+            <Ligature components="uni0930094D" glyph="shadeva.loclMAR"/>
+            <Ligature components="uni0930094D0902" glyph="shadeva.loclMAR"/>
+          </LigatureSet>
+          <LigatureSet glyph="ssadeva">
+            <Ligature components="uni0930094D" glyph="ssadeva"/>
+            <Ligature components="uni0930094D0902" glyph="ssadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="tadeva">
+            <Ligature components="uni0930094D" glyph="tadeva"/>
+            <Ligature components="uni0930094D0902" glyph="tadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="thadeva">
+            <Ligature components="uni0930094D" glyph="thadeva"/>
+            <Ligature components="uni0930094D0902" glyph="thadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="ttadeva">
+            <Ligature components="uni0930094D" glyph="ttadeva"/>
+            <Ligature components="uni0930094D0902" glyph="ttadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="tthadeva">
+            <Ligature components="uni0930094D" glyph="tthadeva"/>
+            <Ligature components="uni0930094D0902" glyph="tthadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092B">
+            <Ligature components="uni0930094D" glyph="uni092B"/>
+            <Ligature components="uni0930094D0902" glyph="uni092B"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092C">
+            <Ligature components="uni0930094D" glyph="uni092C"/>
+            <Ligature components="uni0930094D0902" glyph="uni092C"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092F">
+            <Ligature components="uni0930094D" glyph="uni092F"/>
+            <Ligature components="uni0930094D0902" glyph="uni092F"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092F.post">
+            <Ligature components="uni0930094D" glyph="uni092F.post"/>
+            <Ligature components="uni0930094D0902" glyph="uni092F.post"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0932">
+            <Ligature components="uni0930094D" glyph="uni0932"/>
+            <Ligature components="uni0930094D0902" glyph="uni0932"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0932.loclMAR">
+            <Ligature components="uni0930094D" glyph="uni0932.loclMAR"/>
+            <Ligature components="uni0930094D0902" glyph="uni0932.loclMAR"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0979">
+            <Ligature components="uni0930094D" glyph="uni0979"/>
+            <Ligature components="uni0930094D0902" glyph="uni0979"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni097A">
+            <Ligature components="uni0930094D" glyph="uni097A"/>
+            <Ligature components="uni0930094D0902" glyph="uni097A"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni097B">
+            <Ligature components="uni0930094D" glyph="uni097B"/>
+            <Ligature components="uni0930094D0902" glyph="uni097B"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni097C">
+            <Ligature components="uni0930094D" glyph="uni097C"/>
+            <Ligature components="uni0930094D0902" glyph="uni097C"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni097E">
+            <Ligature components="uni0930094D" glyph="uni097E"/>
+            <Ligature components="uni0930094D0902" glyph="uni097E"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni097F">
+            <Ligature components="uni0930094D" glyph="uni097F"/>
+            <Ligature components="uni0930094D0902" glyph="uni097F"/>
+          </LigatureSet>
+          <LigatureSet glyph="vadeva">
+            <Ligature components="uni0930094D" glyph="vadeva"/>
+            <Ligature components="uni0930094D0902" glyph="vadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="vadeva.post">
+            <Ligature components="uni0930094D" glyph="vadeva.post"/>
+            <Ligature components="uni0930094D0902" glyph="vadeva.post"/>
+          </LigatureSet>
+          <LigatureSet glyph="yyadeva">
+            <Ligature components="uni0930094D" glyph="yyadeva"/>
+            <Ligature components="uni0930094D0902" glyph="yyadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="zadeva">
+            <Ligature components="uni0930094D" glyph="zadeva"/>
+            <Ligature components="uni0930094D0902" glyph="zadeva"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="aivowelsigndeva">
+            <Ligature components="uni0930094D,anusvaradeva" glyph="uni09480930094D0902"/>
+            <Ligature components="anusvaradeva" glyph="aivowelsigndeva_anusvaradeva"/>
+            <Ligature components="uni0930094D" glyph="uni09480930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="evowelsigndeva">
+            <Ligature components="uni0930094D,anusvaradeva" glyph="uni09470930094D0902"/>
+            <Ligature components="anusvaradeva" glyph="evowelsigndeva_anusvaradeva"/>
+            <Ligature components="uni0930094D" glyph="uni09470930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0930094D">
+            <Ligature components="anusvaradeva" glyph="uni0930094D0902"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni094D0930">
+            <Ligature components="uvowelsigndeva" glyph="uni094D09300941"/>
+            <Ligature components="uuvowelsigndeva" glyph="uni094D09300942"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Scedilla" out="Scommaaccent"/>
+          <Substitution in="scedilla" out="scommaaccent"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="Scedilla" out="Scommaaccent"/>
+          <Substitution in="scedilla" out="scommaaccent"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="6">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="shadeva" out="shadeva.loclMAR"/>
+          <Substitution in="uni0930094D" out="uni0930094D.loclMAR"/>
+          <Substitution in="uni0932" out="uni0932.loclMAR"/>
+          <Substitution in="uni0936094D" out="uni0936094D.loclMAR"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="7">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="one" out="onesuperior"/>
+          <Substitution in="three" out="threesuperior"/>
+          <Substitution in="two" out="twosuperior"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="8">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="one">
+            <Ligature components="slash,two" glyph="onehalf"/>
+            <Ligature components="slash,four" glyph="onequarter"/>
+          </LigatureSet>
+          <LigatureSet glyph="three">
+            <Ligature components="slash,four" glyph="threequarters"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="9">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=2 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="A"/>
+            <Glyph value="a"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="23"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="zero"/>
+            <Glyph value="one"/>
+            <Glyph value="two"/>
+            <Glyph value="three"/>
+            <Glyph value="four"/>
+            <Glyph value="five"/>
+            <Glyph value="six"/>
+            <Glyph value="seven"/>
+            <Glyph value="eight"/>
+            <Glyph value="nine"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="O"/>
+            <Glyph value="o"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="23"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="10">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="uni0940"/>
+            <Glyph value="uni0940.02"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="candrabindudeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="23"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="11">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="f">
+            <Ligature components="i" glyph="fi"/>
+            <Ligature components="l" glyph="fl"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="12">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni0936094D" out="uni0936094D.ss02"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="13">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="ddadeva">
+            <Ligature components="nuktadeva" glyph="dddhadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="ddhadeva">
+            <Ligature components="nuktadeva" glyph="rhadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="gadeva">
+            <Ligature components="nuktadeva" glyph="ghhadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="jadeva">
+            <Ligature components="nuktadeva" glyph="zadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="kadeva">
+            <Ligature components="nuktadeva" glyph="qadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="khadeva">
+            <Ligature components="nuktadeva" glyph="khhadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="lladeva">
+            <Ligature components="nuktadeva" glyph="llladeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="nadeva">
+            <Ligature components="nuktadeva" glyph="nnnadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="radeva">
+            <Ligature components="nuktadeva" glyph="rradeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092B">
+            <Ligature components="nuktadeva" glyph="fadeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092F">
+            <Ligature components="nuktadeva" glyph="yyadeva"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="14">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni0915094D">
+            <Ligature components="ssadeva" glyph="uni0915094D0937"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni091C094D">
+            <Ligature components="nyadeva" glyph="uni091C094D091E"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="15">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="radeva">
+            <Ligature components="viramadeva" glyph="uni0930094D"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="16">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="bhadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni092D094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="cadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni091A094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="dadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0926094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="dhadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0927094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="fadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni095E094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="gadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0917094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="ghadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0918094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="hadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0939094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="jadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni091C094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="jhadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni091D094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="kadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0915094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="khadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0916094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="madeva">
+            <Ligature components="viramadeva,radeva" glyph="uni092E094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="nadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0928094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="nnadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0923094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="nyadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni091E094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="padeva">
+            <Ligature components="viramadeva,radeva" glyph="uni092A094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="sadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0938094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="shadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0936094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="ssadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0937094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="tadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0924094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="thadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0925094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092B">
+            <Ligature components="viramadeva,radeva" glyph="uni092B094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092C">
+            <Ligature components="viramadeva,radeva" glyph="uni092C094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092F">
+            <Ligature components="viramadeva,radeva" glyph="uni092F094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0932">
+            <Ligature components="viramadeva,radeva" glyph="uni0932094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="vadeva">
+            <Ligature components="viramadeva,radeva" glyph="uni0935094D0930"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="17">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=14 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="ttadeva"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="viramadeva"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="radeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=2 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="nuktadeva"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1" Format="1">
+            <Glyph value="ttadeva"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="viramadeva"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="radeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="2" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="tthadeva"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="viramadeva"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="radeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="3" Format="3">
+          <!-- BacktrackGlyphCount=2 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="nuktadeva"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1" Format="1">
+            <Glyph value="tthadeva"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="viramadeva"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="radeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="4" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="ddadeva"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="viramadeva"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="radeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="5" Format="3">
+          <!-- BacktrackGlyphCount=2 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="nuktadeva"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1" Format="1">
+            <Glyph value="ddadeva"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="viramadeva"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="radeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="6" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="ddhadeva"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="viramadeva"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="radeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="7" Format="3">
+          <!-- BacktrackGlyphCount=2 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="nuktadeva"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1" Format="1">
+            <Glyph value="ddhadeva"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="viramadeva"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="radeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="8" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="chadeva"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="viramadeva"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="radeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="9" Format="3">
+          <!-- BacktrackGlyphCount=2 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="nuktadeva"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1" Format="1">
+            <Glyph value="chadeva"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="viramadeva"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="radeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="10" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="ngadeva"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="viramadeva"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="radeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="11" Format="3">
+          <!-- BacktrackGlyphCount=2 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="nuktadeva"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1" Format="1">
+            <Glyph value="ngadeva"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="viramadeva"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="radeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="12" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="lladeva"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="viramadeva"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="radeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="13" Format="3">
+          <!-- BacktrackGlyphCount=2 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="nuktadeva"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1" Format="1">
+            <Glyph value="lladeva"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="viramadeva"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="radeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="24"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="18">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="bhadeva">
+            <Ligature components="viramadeva" glyph="uni092D094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="cadeva">
+            <Ligature components="viramadeva" glyph="uni091A094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="chadeva">
+            <Ligature components="viramadeva" glyph="uni091B094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="dadeva">
+            <Ligature components="viramadeva" glyph="uni0926094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="ddadeva">
+            <Ligature components="viramadeva" glyph="uni0921094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="ddhadeva">
+            <Ligature components="viramadeva" glyph="uni0922094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="dhadeva">
+            <Ligature components="viramadeva" glyph="uni0927094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="fadeva">
+            <Ligature components="viramadeva" glyph="uni095E094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="gadeva">
+            <Ligature components="viramadeva" glyph="uni0917094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="ghadeva">
+            <Ligature components="viramadeva" glyph="uni0918094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="ghhadeva">
+            <Ligature components="viramadeva" glyph="uni095A094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="hadeva">
+            <Ligature components="viramadeva" glyph="uni0939094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="jadeva">
+            <Ligature components="viramadeva" glyph="uni091C094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="jhadeva">
+            <Ligature components="viramadeva" glyph="uni091D094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="kadeva">
+            <Ligature components="viramadeva" glyph="uni0915094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="khadeva">
+            <Ligature components="viramadeva" glyph="uni0916094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="khhadeva">
+            <Ligature components="viramadeva" glyph="uni0959094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="lladeva">
+            <Ligature components="viramadeva" glyph="uni0933094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="llladeva">
+            <Ligature components="viramadeva" glyph="uni0934094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="madeva">
+            <Ligature components="viramadeva" glyph="uni092E094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="nadeva">
+            <Ligature components="viramadeva" glyph="uni0928094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="ngadeva">
+            <Ligature components="viramadeva" glyph="uni0919094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="nnadeva">
+            <Ligature components="viramadeva" glyph="uni0923094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="nnnadeva">
+            <Ligature components="viramadeva" glyph="uni0929094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="nyadeva">
+            <Ligature components="viramadeva" glyph="uni091E094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="padeva">
+            <Ligature components="viramadeva" glyph="uni092A094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="qadeva">
+            <Ligature components="viramadeva" glyph="uni0958094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="rradeva">
+            <Ligature components="viramadeva" glyph="uni0931094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="sadeva">
+            <Ligature components="viramadeva" glyph="uni0938094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="shadeva">
+            <Ligature components="viramadeva" glyph="uni0936094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="shadeva.loclMAR">
+            <Ligature components="viramadeva" glyph="uni0936094D.loclMAR"/>
+          </LigatureSet>
+          <LigatureSet glyph="ssadeva">
+            <Ligature components="viramadeva" glyph="uni0937094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="tadeva">
+            <Ligature components="viramadeva" glyph="uni0924094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="thadeva">
+            <Ligature components="viramadeva" glyph="uni0925094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="ttadeva">
+            <Ligature components="viramadeva" glyph="uni091F094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="tthadeva">
+            <Ligature components="viramadeva" glyph="uni0920094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0915094D">
+            <Ligature components="uni0937094D" glyph="uni0915094D0937094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0915094D0937">
+            <Ligature components="viramadeva" glyph="uni0915094D0937094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0917094D">
+            <Ligature components="uni0928094D" glyph="uni0917094D0928094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0917094D0928">
+            <Ligature components="viramadeva" glyph="uni0917094D0928094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0917094D0930">
+            <Ligature components="viramadeva" glyph="uni0917094D0930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0918094D0930">
+            <Ligature components="viramadeva" glyph="uni0918094D0930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0919094D">
+            <Ligature components="uni0915094D" glyph="uni0919094D0915094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0919094D0915">
+            <Ligature components="viramadeva" glyph="uni0919094D0915094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni091C094D">
+            <Ligature components="uni091E094D" glyph="uni091C094D091E094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni091C094D091C.alt">
+            <Ligature components="viramadeva" glyph="uni091C094D091C094D.alt"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni091C094D091E">
+            <Ligature components="viramadeva" glyph="uni091C094D091E094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni091C094D0930">
+            <Ligature components="viramadeva" glyph="uni091C094D0930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0924094D">
+            <Ligature components="uni0924094D" glyph="uni0924094D0924094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0924094D0924">
+            <Ligature components="viramadeva" glyph="uni0924094D0924094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0924094D0930">
+            <Ligature components="viramadeva" glyph="uni0924094D0930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0927094D0930">
+            <Ligature components="viramadeva" glyph="uni0927094D0930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0928094D">
+            <Ligature components="uni0928094D" glyph="uni0928094D0928094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0928094D0928">
+            <Ligature components="viramadeva" glyph="uni0928094D0928094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092B">
+            <Ligature components="viramadeva" glyph="uni092B094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092C">
+            <Ligature components="viramadeva" glyph="uni092C094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092D094D">
+            <Ligature components="uni0928094D" glyph="uni092D094D0928094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092D094D0930">
+            <Ligature components="viramadeva" glyph="uni092D094D0930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092E094D">
+            <Ligature components="uni0928094D" glyph="uni092E094D0928094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092E094D0930">
+            <Ligature components="viramadeva" glyph="uni092E094D0930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092F">
+            <Ligature components="viramadeva" glyph="uni092F094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092F094D">
+            <Ligature components="uni0928094D" glyph="uni092F094D0928094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092F094D0930">
+            <Ligature components="viramadeva" glyph="uni092F094D0930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0932">
+            <Ligature components="viramadeva" glyph="uni0932094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0935094D">
+            <Ligature components="uni0928094D" glyph="uni0935094D0928094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0935094D0930">
+            <Ligature components="viramadeva" glyph="uni0935094D0930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0936094D0930">
+            <Ligature components="viramadeva" glyph="uni0936094D0930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="vadeva">
+            <Ligature components="viramadeva" glyph="uni0935094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="zadeva">
+            <Ligature components="viramadeva" glyph="uni095B094D"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="19">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="dadeva">
+            <Ligature components="uvowelsigndeva" glyph="dadeva_uvowelsigndeva"/>
+            <Ligature components="uuvowelsigndeva" glyph="dadeva_uuvowelsigndeva"/>
+            <Ligature components="rvocalicvowelsigndeva" glyph="uni0926094D0943"/>
+          </LigatureSet>
+          <LigatureSet glyph="hadeva">
+            <Ligature components="uvowelsigndeva" glyph="hadeva_uvowelsigndeva"/>
+            <Ligature components="uuvowelsigndeva" glyph="hadeva_uuvowelsigndeva"/>
+            <Ligature components="rvocalicvowelsigndeva" glyph="hadeva_rvocalicvowelsigndeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="jhadeva">
+            <Ligature components="uvowelsigndeva" glyph="jhadeva_uvowelsigndeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="radeva">
+            <Ligature components="uvowelsigndeva" glyph="radeva_uvowelsigndeva"/>
+            <Ligature components="uuvowelsigndeva" glyph="radeva_uuvowelsigndeva"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0915094D">
+            <Ligature components="uni0924094D,tadeva" glyph="uni0915094D0924094D0924"/>
+            <Ligature components="uni0937094D,madeva" glyph="uni0915094D0937094D092E"/>
+            <Ligature components="uni0937094D,uni092F" glyph="uni0915094D0937094D092F"/>
+            <Ligature components="kadeva" glyph="uni0915094D0915"/>
+            <Ligature components="vadeva" glyph="uni0915094D0935"/>
+            <Ligature components="ssadeva" glyph="uni0915094D0937"/>
+            <Ligature components="uni0937094D0930" glyph="uni0915094D0937094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0916094D">
+            <Ligature components="nadeva" glyph="uni0916094D0928"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0917094D">
+            <Ligature components="radeva,viramadeva,uni092F" glyph="uni0917094D0930094D092F"/>
+            <Ligature components="uni0928094D,uni092F" glyph="uni0917094D0928094D092F"/>
+            <Ligature components="nadeva" glyph="uni0917094D0928"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0918094D">
+            <Ligature components="nadeva" glyph="uni0918094D0928"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0919094D">
+            <Ligature components="uni0915094D,uni0924094D,tadeva" glyph="uni0919094D0915094D0924094D0924"/>
+            <Ligature components="uni0915094D,ssadeva" glyph="uni0919094D0915094D0937"/>
+            <Ligature components="kadeva" glyph="uni0919094D0915"/>
+            <Ligature components="khadeva" glyph="uni0919094D0916"/>
+            <Ligature components="gadeva" glyph="uni0919094D0917"/>
+            <Ligature components="ghadeva" glyph="uni0919094D0918"/>
+            <Ligature components="madeva" glyph="uni0919094D092E"/>
+            <Ligature components="uni0915094D0930" glyph="uni0919094D0915094D0930"/>
+            <Ligature components="uni0917094D0930" glyph="uni0919094D0917094D0930"/>
+            <Ligature components="uni0918094D0930" glyph="uni0919094D0918094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni091A094D">
+            <Ligature components="uni091B094D,vadeva" glyph="uni091A094D091B094D0935"/>
+            <Ligature components="cadeva" glyph="uni091A094D091A"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni091B094D">
+            <Ligature components="nadeva" glyph="uni091B094D0928"/>
+            <Ligature components="vadeva" glyph="uni091B094D0935"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni091C094D">
+            <Ligature components="nyadeva" glyph="uni091C094D091E"/>
+            <Ligature components="uni091E094D0930" glyph="uni091C094D091E094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni091E094D">
+            <Ligature components="cadeva" glyph="uni091E094D091A"/>
+            <Ligature components="jadeva" glyph="uni091E094D091C"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni091F094D">
+            <Ligature components="uni091F094D,uni092F" glyph="uni091F094D091F094D092F"/>
+            <Ligature components="ttadeva" glyph="uni091F094D091F"/>
+            <Ligature components="tthadeva" glyph="uni091F094D0920"/>
+            <Ligature components="ddhadeva" glyph="uni091F094D0922"/>
+            <Ligature components="nadeva" glyph="uni091F094D0928"/>
+            <Ligature components="uni092F" glyph="uni091F094D092F"/>
+            <Ligature components="vadeva" glyph="uni091F094D0935"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0920094D">
+            <Ligature components="uni0920094D,uni092F" glyph="uni0920094D0920094D092F"/>
+            <Ligature components="tthadeva" glyph="uni0920094D0920"/>
+            <Ligature components="nadeva" glyph="uni0920094D0928"/>
+            <Ligature components="uni092F" glyph="uni0920094D092F"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0921094D">
+            <Ligature components="uni0921094D,uni092F" glyph="uni0921094D0921094D092F"/>
+            <Ligature components="ghadeva" glyph="uni0921094D0918"/>
+            <Ligature components="ttadeva" glyph="uni0921094D091F"/>
+            <Ligature components="ddadeva" glyph="uni0921094D0921"/>
+            <Ligature components="ddhadeva" glyph="uni0921094D0922"/>
+            <Ligature components="nadeva" glyph="uni0921094D0928"/>
+            <Ligature components="madeva" glyph="uni0921094D092E"/>
+            <Ligature components="uni092F" glyph="uni0921094D092F"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0922094D">
+            <Ligature components="uni0922094D,uni092F" glyph="uni0922094D0922094D092F"/>
+            <Ligature components="ddhadeva" glyph="uni0922094D0922"/>
+            <Ligature components="nadeva" glyph="uni0922094D0928"/>
+            <Ligature components="uni092F" glyph="uni0922094D092F"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0924094D">
+            <Ligature components="radeva,viramadeva,uni092F" glyph="uni0924094D0930094D092F"/>
+            <Ligature components="tadeva" glyph="uni0924094D0924"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0926094D">
+            <Ligature components="uni0927094D,radeva,viramadeva,uni092F" glyph="uni0926094D0927094D0930094D092F"/>
+            <Ligature components="gadeva,uvowelsigndeva" glyph="uni0926094D09170941"/>
+            <Ligature components="gadeva,uuvowelsigndeva" glyph="uni0926094D09170942"/>
+            <Ligature components="ghadeva,uvowelsigndeva" glyph="uni0926094D09180941"/>
+            <Ligature components="ghadeva,uuvowelsigndeva" glyph="uni0926094D09180942"/>
+            <Ligature components="dadeva,uvowelsigndeva" glyph="uni0926094D09260941"/>
+            <Ligature components="dadeva,uuvowelsigndeva" glyph="uni0926094D09260942"/>
+            <Ligature components="dhadeva,uvowelsigndeva" glyph="uni0926094D09270941"/>
+            <Ligature components="dhadeva,uuvowelsigndeva" glyph="uni0926094D09270942"/>
+            <Ligature components="nadeva,uvowelsigndeva" glyph="uni0926094D09280941"/>
+            <Ligature components="nadeva,uuvowelsigndeva" glyph="uni0926094D09280942"/>
+            <Ligature components="uni092C,uvowelsigndeva" glyph="uni0926094D092C0941"/>
+            <Ligature components="uni092C,uuvowelsigndeva" glyph="uni0926094D092C0942"/>
+            <Ligature components="bhadeva,uvowelsigndeva" glyph="uni0926094D092D0941"/>
+            <Ligature components="bhadeva,uuvowelsigndeva" glyph="uni0926094D092D0942"/>
+            <Ligature components="vadeva,uvowelsigndeva" glyph="uni0926094D09350941"/>
+            <Ligature components="vadeva,uuvowelsigndeva" glyph="uni0926094D09350942"/>
+            <Ligature components="uni0918094D,uni092F" glyph="uni0926094D0918094D092F"/>
+            <Ligature components="uni0926094D,uni092F" glyph="uni0926094D0926094D092F"/>
+            <Ligature components="uni0927094D,uni092F" glyph="uni0926094D0927094D092F"/>
+            <Ligature components="uni092D094D,uni092F" glyph="uni0926094D092D094D092F"/>
+            <Ligature components="uni0935094D,uni092F" glyph="uni0926094D0935094D092F"/>
+            <Ligature components="gadeva" glyph="uni0926094D0917"/>
+            <Ligature components="ghadeva" glyph="uni0926094D0918"/>
+            <Ligature components="dadeva" glyph="uni0926094D0926"/>
+            <Ligature components="dhadeva" glyph="uni0926094D0927"/>
+            <Ligature components="nadeva" glyph="uni0926094D0928"/>
+            <Ligature components="uni092C" glyph="uni0926094D092C"/>
+            <Ligature components="bhadeva" glyph="uni0926094D092D"/>
+            <Ligature components="madeva" glyph="uni0926094D092E"/>
+            <Ligature components="uni092F" glyph="uni0926094D092F"/>
+            <Ligature components="vadeva" glyph="uni0926094D0935"/>
+            <Ligature components="uni0917094D0930" glyph="uni0926094D0917094D0930"/>
+            <Ligature components="uni092C094D0930" glyph="uni0926094D092C094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0926094D0930">
+            <Ligature components="viramadeva,uni092F" glyph="uni0926094D0930094D092F"/>
+            <Ligature components="uvowelsigndeva" glyph="uni0926094D09300941"/>
+            <Ligature components="uuvowelsigndeva" glyph="uni0926094D09300942"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0928094D">
+            <Ligature components="uni0928094D,uni092F" glyph="uni0928094D0928094D092F"/>
+            <Ligature components="nadeva" glyph="uni0928094D0928"/>
+            <Ligature components="bhadeva" glyph="uni0928094D092D"/>
+            <Ligature components="madeva" glyph="uni0928094D092E"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092A094D">
+            <Ligature components="jhadeva" glyph="uni092A094D091D"/>
+            <Ligature components="ttadeva" glyph="uni092A094D091F"/>
+            <Ligature components="tadeva" glyph="uni092A094D0924"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni092C094D">
+            <Ligature components="jadeva" glyph="uni092C094D091C"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0931094D">
+            <Ligature components="uni092F" glyph="uni0931094D092F"/>
+            <Ligature components="hadeva" glyph="uni0931094D0939"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0935094D">
+            <Ligature components="hadeva" glyph="uni0935094D0939"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0936094D">
+            <Ligature components="radeva,viramadeva,uni092F" glyph="uni0936094D0930094D092F"/>
+            <Ligature components="cadeva" glyph="uni0936094D091A"/>
+            <Ligature components="nadeva" glyph="uni0936094D0928"/>
+            <Ligature components="vadeva" glyph="uni0936094D0935"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0937094D">
+            <Ligature components="uni091F094D,uni092F" glyph="uni0937094D091F094D092F"/>
+            <Ligature components="uni091F094D,vadeva" glyph="uni0937094D091F094D0935"/>
+            <Ligature components="uni0920094D,uni092F" glyph="uni0937094D0920094D092F"/>
+            <Ligature components="uni0920094D,vadeva" glyph="uni0937094D0920094D0935"/>
+            <Ligature components="ttadeva" glyph="uni0937094D091F"/>
+            <Ligature components="tthadeva" glyph="uni0937094D0920"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0938094D">
+            <Ligature components="thadeva" glyph="uni0938094D0925"/>
+            <Ligature components="uni0924094D0930" glyph="uni0938094D0924094D0930"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0939094D">
+            <Ligature components="nnadeva" glyph="uni0939094D0923"/>
+            <Ligature components="nadeva" glyph="uni0939094D0928"/>
+            <Ligature components="madeva" glyph="uni0939094D092E"/>
+            <Ligature components="uni092F" glyph="uni0939094D092F"/>
+            <Ligature components="uni0932" glyph="uni0939094D0932"/>
+            <Ligature components="vadeva" glyph="uni0939094D0935"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="20">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=9 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uni093F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="1">
+            <Glyph value="radeva"/>
+            <Glyph value="rradeva"/>
+            <Glyph value="radeva_uvowelsigndeva"/>
+            <Glyph value="radeva_uuvowelsigndeva"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="25"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uni093F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="1">
+            <Glyph value="tthadeva"/>
+            <Glyph value="hadeva"/>
+            <Glyph value="uni0915094D0930"/>
+            <Glyph value="uni0915094D0935"/>
+            <Glyph value="uni091F094D0935"/>
+            <Glyph value="uni0920094D0920"/>
+            <Glyph value="uni0920094D0920094D092F"/>
+            <Glyph value="uni0920094D0928"/>
+            <Glyph value="uni0920094D092F"/>
+            <Glyph value="uni0922094D0922"/>
+            <Glyph value="uni0922094D0928"/>
+            <Glyph value="dadeva_uvowelsigndeva"/>
+            <Glyph value="dadeva_uuvowelsigndeva"/>
+            <Glyph value="uni0926094D0917"/>
+            <Glyph value="uni0926094D09170941"/>
+            <Glyph value="uni0926094D09170942"/>
+            <Glyph value="uni0926094D0917094D0930"/>
+            <Glyph value="uni0926094D0926"/>
+            <Glyph value="uni0926094D09260941"/>
+            <Glyph value="uni0926094D09260942"/>
+            <Glyph value="uni0926094D092C"/>
+            <Glyph value="uni0926094D092C0941"/>
+            <Glyph value="uni0926094D092C0942"/>
+            <Glyph value="uni0926094D092C094D0930"/>
+            <Glyph value="uni0926094D09300942"/>
+            <Glyph value="uni0926094D0935"/>
+            <Glyph value="uni0926094D09350941"/>
+            <Glyph value="uni0926094D09350942"/>
+            <Glyph value="uni092A094D091F"/>
+            <Glyph value="uni0937094D091F"/>
+            <Glyph value="uni0937094D091F094D092F"/>
+            <Glyph value="uni0937094D091F094D0935"/>
+            <Glyph value="uni0937094D0920"/>
+            <Glyph value="uni0937094D0920094D092F"/>
+            <Glyph value="uni0937094D0920094D0935"/>
+            <Glyph value="hadeva_uvowelsigndeva"/>
+            <Glyph value="hadeva_uuvowelsigndeva"/>
+            <Glyph value="hadeva_rvocalicvowelsigndeva"/>
+            <Glyph value="uni0939094D0923"/>
+            <Glyph value="uni0939094D0928"/>
+            <Glyph value="uni0939094D0930"/>
+            <Glyph value="uni0939094D0932"/>
+            <Glyph value="uni0939094D0935"/>
+            <Glyph value="uni0915094D0932.loclMAR"/>
+            <Glyph value="uni0920094D"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="26"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="2" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uni093F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="1">
+            <Glyph value="kadeva"/>
+            <Glyph value="ngadeva"/>
+            <Glyph value="ttadeva"/>
+            <Glyph value="ddadeva"/>
+            <Glyph value="ddhadeva"/>
+            <Glyph value="dadeva"/>
+            <Glyph value="nadeva"/>
+            <Glyph value="nnnadeva"/>
+            <Glyph value="padeva"/>
+            <Glyph value="uni092B"/>
+            <Glyph value="ssadeva"/>
+            <Glyph value="qadeva"/>
+            <Glyph value="dddhadeva"/>
+            <Glyph value="rhadeva"/>
+            <Glyph value="fadeva"/>
+            <Glyph value="vadeva.post"/>
+            <Glyph value="uni0915094D0915"/>
+            <Glyph value="uni0919094D0915"/>
+            <Glyph value="uni0919094D0915094D0924094D0924"/>
+            <Glyph value="uni0919094D0915094D0930"/>
+            <Glyph value="uni0919094D0915094D0937"/>
+            <Glyph value="uni0919094D0916"/>
+            <Glyph value="uni0919094D0917"/>
+            <Glyph value="uni0919094D0917094D0930"/>
+            <Glyph value="uni0919094D0918"/>
+            <Glyph value="uni0919094D0918094D0930"/>
+            <Glyph value="uni0919094D092E"/>
+            <Glyph value="uni091F094D091F"/>
+            <Glyph value="uni091F094D0920"/>
+            <Glyph value="uni091F094D0922"/>
+            <Glyph value="uni091F094D092F"/>
+            <Glyph value="uni0921094D0918"/>
+            <Glyph value="uni0921094D091F"/>
+            <Glyph value="uni0921094D0921"/>
+            <Glyph value="uni0921094D0922"/>
+            <Glyph value="uni0921094D0928"/>
+            <Glyph value="uni0924094D0930"/>
+            <Glyph value="uni0926094D0928"/>
+            <Glyph value="uni0926094D09280941"/>
+            <Glyph value="uni0926094D09280942"/>
+            <Glyph value="uni0926094D0930"/>
+            <Glyph value="uni0926094D09300941"/>
+            <Glyph value="uni0926094D0943"/>
+            <Glyph value="uni092A094D0930"/>
+            <Glyph value="uni092B094D0930"/>
+            <Glyph value="uni092C094D0930"/>
+            <Glyph value="uni092F094D0930"/>
+            <Glyph value="uni0935094D0930"/>
+            <Glyph value="uni0937094D0930"/>
+            <Glyph value="uni095E094D0930"/>
+            <Glyph value="uni0915094D0930.alt"/>
+            <Glyph value="uni0924094D0930.alt"/>
+            <Glyph value="uni0918094D0932.loclMAR"/>
+            <Glyph value="uni092A094D0932.loclMAR"/>
+            <Glyph value="uni092B094D0932.loclMAR"/>
+            <Glyph value="uni092C094D0932.loclMAR"/>
+            <Glyph value="uni092E094D0932.loclMAR"/>
+            <Glyph value="uni0932094D0932.loclMAR"/>
+            <Glyph value="uni0919094D"/>
+            <Glyph value="uni0919094D0915094D"/>
+            <Glyph value="uni091F094D"/>
+            <Glyph value="uni0921094D"/>
+            <Glyph value="uni0922094D"/>
+            <Glyph value="uni0926094D"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="27"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="3" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uni093F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="1">
+            <Glyph value="gadeva"/>
+            <Glyph value="ghadeva"/>
+            <Glyph value="cadeva"/>
+            <Glyph value="chadeva"/>
+            <Glyph value="tadeva"/>
+            <Glyph value="thadeva"/>
+            <Glyph value="dhadeva"/>
+            <Glyph value="uni092C"/>
+            <Glyph value="madeva"/>
+            <Glyph value="uni092F"/>
+            <Glyph value="vadeva"/>
+            <Glyph value="sadeva"/>
+            <Glyph value="ghhadeva"/>
+            <Glyph value="yyadeva"/>
+            <Glyph value="uni097A"/>
+            <Glyph value="uni0932.loclMAR"/>
+            <Glyph value="shadeva.loclMAR"/>
+            <Glyph value="uni092F.post"/>
+            <Glyph value="uni0915094D0924094D0924"/>
+            <Glyph value="uni0917094D0928"/>
+            <Glyph value="uni0917094D0930"/>
+            <Glyph value="uni0918094D0928"/>
+            <Glyph value="uni0918094D0930"/>
+            <Glyph value="uni091A094D0930"/>
+            <Glyph value="uni091B094D0928"/>
+            <Glyph value="uni091B094D0935"/>
+            <Glyph value="uni0924094D0924"/>
+            <Glyph value="uni0925094D0930"/>
+            <Glyph value="uni0926094D0918"/>
+            <Glyph value="uni0926094D09180941"/>
+            <Glyph value="uni0926094D09180942"/>
+            <Glyph value="uni0926094D0927"/>
+            <Glyph value="uni0926094D09270941"/>
+            <Glyph value="uni0926094D09270942"/>
+            <Glyph value="uni0926094D092D"/>
+            <Glyph value="uni0926094D092D0941"/>
+            <Glyph value="uni0926094D092D0942"/>
+            <Glyph value="uni0926094D092E"/>
+            <Glyph value="uni0926094D092F"/>
+            <Glyph value="uni0926094D0930094D092F"/>
+            <Glyph value="uni0927094D0930"/>
+            <Glyph value="uni0928094D0928"/>
+            <Glyph value="uni0928094D0930"/>
+            <Glyph value="uni092E094D0930"/>
+            <Glyph value="uni0936094D0930"/>
+            <Glyph value="uni0938094D0930"/>
+            <Glyph value="uni091A094D091A.alt"/>
+            <Glyph value="uni0917094D0932.loclMAR"/>
+            <Glyph value="uni091A094D0932.loclMAR"/>
+            <Glyph value="uni091B094D0932.loclMAR"/>
+            <Glyph value="uni092D094D0932.loclMAR"/>
+            <Glyph value="uni0935094D0932.loclMAR"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="28"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="4" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uni093F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="1">
+            <Glyph value="khadeva"/>
+            <Glyph value="jadeva"/>
+            <Glyph value="jhadeva"/>
+            <Glyph value="nyadeva"/>
+            <Glyph value="nnadeva"/>
+            <Glyph value="bhadeva"/>
+            <Glyph value="uni0932"/>
+            <Glyph value="lladeva"/>
+            <Glyph value="llladeva"/>
+            <Glyph value="shadeva"/>
+            <Glyph value="khhadeva"/>
+            <Glyph value="zadeva"/>
+            <Glyph value="uni0979"/>
+            <Glyph value="uni0915094D0937"/>
+            <Glyph value="uni0915094D0937094D0930"/>
+            <Glyph value="uni0916094D0928"/>
+            <Glyph value="uni0916094D0930"/>
+            <Glyph value="uni091C094D091E"/>
+            <Glyph value="uni091C094D091E094D0930"/>
+            <Glyph value="uni091C094D0930"/>
+            <Glyph value="jhadeva_uvowelsigndeva"/>
+            <Glyph value="uni091D094D0930"/>
+            <Glyph value="uni091E094D091A"/>
+            <Glyph value="uni091E094D091C"/>
+            <Glyph value="uni091E094D0930"/>
+            <Glyph value="uni0923094D0930"/>
+            <Glyph value="uni092D094D0930"/>
+            <Glyph value="uni0931094D0939"/>
+            <Glyph value="uni0932094D0930"/>
+            <Glyph value="uni0935094D0939"/>
+            <Glyph value="uni0936094D091A"/>
+            <Glyph value="uni0936094D0928"/>
+            <Glyph value="uni0936094D0935"/>
+            <Glyph value="uni0939094D092E"/>
+            <Glyph value="uni0939094D092F"/>
+            <Glyph value="uni091C094D091C.alt"/>
+            <Glyph value="uni0916094D0932.loclMAR"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="29"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="5" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uni093F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="1">
+            <Glyph value="uni0917094D0928094D092F"/>
+            <Glyph value="uni0917094D0930094D092F"/>
+            <Glyph value="uni0928094D092D"/>
+            <Glyph value="uni092A094D0924"/>
+            <Glyph value="uni0931094D092F"/>
+            <Glyph value="uni0924094D0930094D092F.alt"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="30"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="6" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uni093F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="1">
+            <Glyph value="uni0915094D0937094D092E"/>
+            <Glyph value="uni0915094D0937094D092F"/>
+            <Glyph value="uni091A094D091A"/>
+            <Glyph value="uni091A094D091B094D0935"/>
+            <Glyph value="uni091F094D091F094D092F"/>
+            <Glyph value="uni0921094D0921094D092F"/>
+            <Glyph value="uni0921094D092E"/>
+            <Glyph value="uni0921094D092F"/>
+            <Glyph value="uni0922094D0922094D092F"/>
+            <Glyph value="uni0922094D092F"/>
+            <Glyph value="uni0924094D0930094D092F"/>
+            <Glyph value="uni0926094D0926094D092F"/>
+            <Glyph value="uni0926094D0935094D092F"/>
+            <Glyph value="uni0928094D0928094D092F"/>
+            <Glyph value="uni0928094D092E"/>
+            <Glyph value="uni092A094D091D"/>
+            <Glyph value="uni092C094D091C"/>
+            <Glyph value="uni0936094D0930094D092F"/>
+            <Glyph value="uni0938094D0924094D0930"/>
+            <Glyph value="uni0938094D0925"/>
+            <Glyph value="uni0936094D0932.loclMAR"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="31"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="7" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uni093F"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="1">
+            <Glyph value="uni0926094D0918094D092F"/>
+            <Glyph value="uni0926094D0927094D092F"/>
+            <Glyph value="uni0926094D0927094D0930094D092F"/>
+            <Glyph value="uni0926094D092D094D092F"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="32"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="8" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="kadeva"/>
+            <Glyph value="uni092B"/>
+            <Glyph value="qadeva"/>
+            <Glyph value="fadeva"/>
+            <Glyph value="uni0915094D0915"/>
+            <Glyph value="uni0915094D0924094D0924"/>
+            <Glyph value="uni0915094D0930"/>
+            <Glyph value="uni0915094D0935"/>
+            <Glyph value="uni092B094D0930"/>
+            <Glyph value="uni095E094D0930"/>
+            <Glyph value="uni0915094D0930.alt"/>
+            <Glyph value="uni0915094D0932.loclMAR"/>
+            <Glyph value="uni092B094D0932.loclMAR"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uni0940"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="32"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="21">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="aivowelsigndeva">
+            <Ligature components="uni0930094D,anusvaradeva" glyph="uni09480930094D0902"/>
+            <Ligature components="anusvaradeva" glyph="aivowelsigndeva_anusvaradeva"/>
+            <Ligature components="uni0930094D" glyph="uni09480930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="evowelsigndeva">
+            <Ligature components="uni0930094D,anusvaradeva" glyph="uni09470930094D0902"/>
+            <Ligature components="anusvaradeva" glyph="evowelsigndeva_anusvaradeva"/>
+            <Ligature components="uni0930094D" glyph="uni09470930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="ovowelsigndeva">
+            <Ligature components="uni0930094D,anusvaradeva" glyph="oMatra_reph_anusvara_deva"/>
+            <Ligature components="anusvaradeva" glyph="oMatra_anusvara_deva"/>
+            <Ligature components="uni0930094D" glyph="oMatra_reph_deva"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0930094D">
+            <Ligature components="anusvaradeva" glyph="uni0930094D0902"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni093F">
+            <Ligature components="uni0930094D,anusvaradeva" glyph="uni093F0930094D0902"/>
+            <Ligature components="uni0930094D" glyph="uni093F0930094D"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni0940">
+            <Ligature components="uni0930094D,anusvaradeva" glyph="iiMatra_reph_anusvara_deva"/>
+            <Ligature components="uni0930094D" glyph="iiMatra_reph_deva"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni094C">
+            <Ligature components="uni0930094D,anusvaradeva" glyph="auMatra_reph_anusvara_deva"/>
+            <Ligature components="anusvaradeva" glyph="uni094C_uni0902"/>
+            <Ligature components="uni0930094D" glyph="auMatra_reph_deva"/>
+          </LigatureSet>
+          <LigatureSet glyph="uni094D0930">
+            <Ligature components="uvowelsigndeva" glyph="uni094D09300941"/>
+            <Ligature components="uuvowelsigndeva" glyph="uni094D09300942"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="22">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=9 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uni093F"/>
+            <Glyph value="uni093F.0"/>
+            <Glyph value="uni093F.01"/>
+            <Glyph value="uni093F.02"/>
+            <Glyph value="uni093F.03"/>
+            <Glyph value="uni093F.05"/>
+            <Glyph value="uni093F.08"/>
+            <Glyph value="uni093F.10"/>
+            <Glyph value="uni093F.15"/>
+            <Glyph value="uni093F.20"/>
+            <Glyph value="uni093F.25"/>
+            <Glyph value="uni093F.30"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=2 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="kadeva"/>
+            <Glyph value="khadeva"/>
+            <Glyph value="gadeva"/>
+            <Glyph value="ghadeva"/>
+            <Glyph value="ngadeva"/>
+            <Glyph value="cadeva"/>
+            <Glyph value="chadeva"/>
+            <Glyph value="jadeva"/>
+            <Glyph value="jhadeva"/>
+            <Glyph value="nyadeva"/>
+            <Glyph value="ttadeva"/>
+            <Glyph value="tthadeva"/>
+            <Glyph value="ddadeva"/>
+            <Glyph value="ddhadeva"/>
+            <Glyph value="nnadeva"/>
+            <Glyph value="tadeva"/>
+            <Glyph value="thadeva"/>
+            <Glyph value="dadeva"/>
+            <Glyph value="dhadeva"/>
+            <Glyph value="nadeva"/>
+            <Glyph value="nnnadeva"/>
+            <Glyph value="padeva"/>
+            <Glyph value="uni092B"/>
+            <Glyph value="uni092C"/>
+            <Glyph value="bhadeva"/>
+            <Glyph value="madeva"/>
+            <Glyph value="uni092F"/>
+            <Glyph value="radeva"/>
+            <Glyph value="rradeva"/>
+            <Glyph value="uni0932"/>
+            <Glyph value="lladeva"/>
+            <Glyph value="llladeva"/>
+            <Glyph value="vadeva"/>
+            <Glyph value="shadeva"/>
+            <Glyph value="ssadeva"/>
+            <Glyph value="sadeva"/>
+            <Glyph value="hadeva"/>
+            <Glyph value="qadeva"/>
+            <Glyph value="khhadeva"/>
+            <Glyph value="ghhadeva"/>
+            <Glyph value="zadeva"/>
+            <Glyph value="dddhadeva"/>
+            <Glyph value="rhadeva"/>
+            <Glyph value="fadeva"/>
+            <Glyph value="yyadeva"/>
+            <Glyph value="uni0979"/>
+            <Glyph value="uni097A"/>
+            <Glyph value="uni097B"/>
+            <Glyph value="uni097C"/>
+            <Glyph value="uni097E"/>
+            <Glyph value="uni097F"/>
+            <Glyph value="uni0932.loclMAR"/>
+            <Glyph value="shadeva.loclMAR"/>
+            <Glyph value="uni092F.post"/>
+            <Glyph value="vadeva.post"/>
+            <Glyph value="nadeva.post2"/>
+            <Glyph value="radeva.post2"/>
+          </LookAheadCoverage>
+          <LookAheadCoverage index="1" Format="1">
+            <Glyph value="uni0930094D"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="33"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="1" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uni093F"/>
+            <Glyph value="uni093F.0"/>
+            <Glyph value="uni093F.01"/>
+            <Glyph value="uni093F.02"/>
+            <Glyph value="uni093F.03"/>
+            <Glyph value="uni093F.05"/>
+            <Glyph value="uni093F.08"/>
+            <Glyph value="uni093F.10"/>
+            <Glyph value="uni093F.15"/>
+            <Glyph value="uni093F.20"/>
+            <Glyph value="uni093F.25"/>
+            <Glyph value="uni093F.30"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=2 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="kadeva"/>
+            <Glyph value="khadeva"/>
+            <Glyph value="gadeva"/>
+            <Glyph value="ghadeva"/>
+            <Glyph value="ngadeva"/>
+            <Glyph value="cadeva"/>
+            <Glyph value="chadeva"/>
+            <Glyph value="jadeva"/>
+            <Glyph value="jhadeva"/>
+            <Glyph value="nyadeva"/>
+            <Glyph value="ttadeva"/>
+            <Glyph value="tthadeva"/>
+            <Glyph value="ddadeva"/>
+            <Glyph value="ddhadeva"/>
+            <Glyph value="nnadeva"/>
+            <Glyph value="tadeva"/>
+            <Glyph value="thadeva"/>
+            <Glyph value="dadeva"/>
+            <Glyph value="dhadeva"/>
+            <Glyph value="nadeva"/>
+            <Glyph value="nnnadeva"/>
+            <Glyph value="padeva"/>
+            <Glyph value="uni092B"/>
+            <Glyph value="uni092C"/>
+            <Glyph value="bhadeva"/>
+            <Glyph value="madeva"/>
+            <Glyph value="uni092F"/>
+            <Glyph value="radeva"/>
+            <Glyph value="rradeva"/>
+            <Glyph value="uni0932"/>
+            <Glyph value="lladeva"/>
+            <Glyph value="llladeva"/>
+            <Glyph value="vadeva"/>
+            <Glyph value="shadeva"/>
+            <Glyph value="ssadeva"/>
+            <Glyph value="sadeva"/>
+            <Glyph value="hadeva"/>
+            <Glyph value="qadeva"/>
+            <Glyph value="khhadeva"/>
+            <Glyph value="ghhadeva"/>
+            <Glyph value="zadeva"/>
+            <Glyph value="dddhadeva"/>
+            <Glyph value="rhadeva"/>
+            <Glyph value="fadeva"/>
+            <Glyph value="yyadeva"/>
+            <Glyph value="uni0979"/>
+            <Glyph value="uni097A"/>
+            <Glyph value="uni097B"/>
+            <Glyph value="uni097C"/>
+            <Glyph value="uni097E"/>
+            <Glyph value="uni097F"/>
+            <Glyph value="uni0932.loclMAR"/>
+            <Glyph value="shadeva.loclMAR"/>
+            <Glyph value="uni092F.post"/>
+            <Glyph value="vadeva.post"/>
+            <Glyph value="nadeva.post2"/>
+            <Glyph value="radeva.post2"/>
+          </LookAheadCoverage>
+          <LookAheadCoverage index="1" Format="1">
+            <Glyph value="uni0930094D0902"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="34"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="2" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uni093F"/>
+            <Glyph value="uni093F.0"/>
+            <Glyph value="uni093F.01"/>
+            <Glyph value="uni093F.02"/>
+            <Glyph value="uni093F.03"/>
+            <Glyph value="uni093F.05"/>
+            <Glyph value="uni093F.08"/>
+            <Glyph value="uni093F.10"/>
+            <Glyph value="uni093F.15"/>
+            <Glyph value="uni093F.20"/>
+            <Glyph value="uni093F.25"/>
+            <Glyph value="uni093F.30"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=3 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="uni0915094D"/>
+            <Glyph value="uni0915094D0937094D"/>
+            <Glyph value="uni0916094D"/>
+            <Glyph value="uni0917094D"/>
+            <Glyph value="uni0917094D0928094D"/>
+            <Glyph value="uni0917094D0930094D"/>
+            <Glyph value="uni0918094D"/>
+            <Glyph value="uni0918094D0930094D"/>
+            <Glyph value="uni0919094D"/>
+            <Glyph value="uni0919094D0915094D"/>
+            <Glyph value="uni091A094D"/>
+            <Glyph value="uni091B094D"/>
+            <Glyph value="uni091C094D"/>
+            <Glyph value="uni091C094D091E094D"/>
+            <Glyph value="uni091C094D0930094D"/>
+            <Glyph value="uni091D094D"/>
+            <Glyph value="uni091E094D"/>
+            <Glyph value="uni091F094D"/>
+            <Glyph value="uni0920094D"/>
+            <Glyph value="uni0921094D"/>
+            <Glyph value="uni0922094D"/>
+            <Glyph value="uni0923094D"/>
+            <Glyph value="uni0924094D"/>
+            <Glyph value="uni0924094D0924094D"/>
+            <Glyph value="uni0924094D0930094D"/>
+            <Glyph value="uni0925094D"/>
+            <Glyph value="uni0926094D"/>
+            <Glyph value="uni0927094D"/>
+            <Glyph value="uni0927094D0930094D"/>
+            <Glyph value="uni0928094D"/>
+            <Glyph value="uni0928094D0928094D"/>
+            <Glyph value="uni0929094D"/>
+            <Glyph value="uni092A094D"/>
+            <Glyph value="uni092B094D"/>
+            <Glyph value="uni092C094D"/>
+            <Glyph value="uni092D094D"/>
+            <Glyph value="uni092D094D0928094D"/>
+            <Glyph value="uni092D094D0930094D"/>
+            <Glyph value="uni092E094D"/>
+            <Glyph value="uni092E094D0928094D"/>
+            <Glyph value="uni092E094D0930094D"/>
+            <Glyph value="uni092F094D"/>
+            <Glyph value="uni092F094D0928094D"/>
+            <Glyph value="uni092F094D0930094D"/>
+            <Glyph value="uni0931094D"/>
+            <Glyph value="uni0932094D"/>
+            <Glyph value="uni0933094D"/>
+            <Glyph value="uni0934094D"/>
+            <Glyph value="uni0935094D"/>
+            <Glyph value="uni0935094D0928094D"/>
+            <Glyph value="uni0935094D0930094D"/>
+            <Glyph value="uni0936094D"/>
+            <Glyph value="uni0936094D0930094D"/>
+            <Glyph value="uni0937094D"/>
+            <Glyph value="uni0938094D"/>
+            <Glyph value="uni0939094D"/>
+            <Glyph value="uni0958094D"/>
+            <Glyph value="uni0959094D"/>
+            <Glyph value="uni095A094D"/>
+            <Glyph value="uni095B094D"/>
+            <Glyph value="uni095E094D"/>
+            <Glyph value="uni091C094D091C094D.alt"/>
+            <Glyph value="uni0936094D.loclMAR"/>
+            <Glyph value="uni0936094D.ss02"/>
+          </LookAheadCoverage>
+          <LookAheadCoverage index="1" Format="2">
+            <Glyph value="kadeva"/>
+            <Glyph value="khadeva"/>
+            <Glyph value="gadeva"/>
+            <Glyph value="ghadeva"/>
+            <Glyph value="ngadeva"/>
+            <Glyph value="cadeva"/>
+            <Glyph value="chadeva"/>
+            <Glyph value="jadeva"/>
+            <Glyph value="jhadeva"/>
+            <Glyph value="nyadeva"/>
+            <Glyph value="ttadeva"/>
+            <Glyph value="tthadeva"/>
+            <Glyph value="ddadeva"/>
+            <Glyph value="ddhadeva"/>
+            <Glyph value="nnadeva"/>
+            <Glyph value="tadeva"/>
+            <Glyph value="thadeva"/>
+            <Glyph value="dadeva"/>
+            <Glyph value="dhadeva"/>
+            <Glyph value="nadeva"/>
+            <Glyph value="nnnadeva"/>
+            <Glyph value="padeva"/>
+            <Glyph value="uni092B"/>
+            <Glyph value="uni092C"/>
+            <Glyph value="bhadeva"/>
+            <Glyph value="madeva"/>
+            <Glyph value="uni092F"/>
+            <Glyph value="radeva"/>
+            <Glyph value="rradeva"/>
+            <Glyph value="uni0932"/>
+            <Glyph value="lladeva"/>
+            <Glyph value="llladeva"/>
+            <Glyph value="vadeva"/>
+            <Glyph value="shadeva"/>
+            <Glyph value="ssadeva"/>
+            <Glyph value="sadeva"/>
+            <Glyph value="hadeva"/>
+            <Glyph value="qadeva"/>
+            <Glyph value="khhadeva"/>
+            <Glyph value="ghhadeva"/>
+            <Glyph value="zadeva"/>
+            <Glyph value="dddhadeva"/>
+            <Glyph value="rhadeva"/>
+            <Glyph value="fadeva"/>
+            <Glyph value="yyadeva"/>
+            <Glyph value="uni0979"/>
+            <Glyph value="uni097A"/>
+            <Glyph value="uni097B"/>
+            <Glyph value="uni097C"/>
+            <Glyph value="uni097E"/>
+            <Glyph value="uni097F"/>
+            <Glyph value="uni0932.loclMAR"/>
+            <Glyph value="shadeva.loclMAR"/>
+            <Glyph value="uni092F.post"/>
+            <Glyph value="vadeva.post"/>
+            <Glyph value="nadeva.post2"/>
+            <Glyph value="radeva.post2"/>
+          </LookAheadCoverage>
+          <LookAheadCoverage index="2" Format="1">
+            <Glyph value="uni0930094D"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="35"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="3" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uni093F"/>
+            <Glyph value="uni093F.0"/>
+            <Glyph value="uni093F.01"/>
+            <Glyph value="uni093F.02"/>
+            <Glyph value="uni093F.03"/>
+            <Glyph value="uni093F.05"/>
+            <Glyph value="uni093F.08"/>
+            <Glyph value="uni093F.10"/>
+            <Glyph value="uni093F.15"/>
+            <Glyph value="uni093F.20"/>
+            <Glyph value="uni093F.25"/>
+            <Glyph value="uni093F.30"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=3 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="uni0915094D"/>
+            <Glyph value="uni0915094D0937094D"/>
+            <Glyph value="uni0916094D"/>
+            <Glyph value="uni0917094D"/>
+            <Glyph value="uni0917094D0928094D"/>
+            <Glyph value="uni0917094D0930094D"/>
+            <Glyph value="uni0918094D"/>
+            <Glyph value="uni0918094D0930094D"/>
+            <Glyph value="uni0919094D"/>
+            <Glyph value="uni0919094D0915094D"/>
+            <Glyph value="uni091A094D"/>
+            <Glyph value="uni091B094D"/>
+            <Glyph value="uni091C094D"/>
+            <Glyph value="uni091C094D091E094D"/>
+            <Glyph value="uni091C094D0930094D"/>
+            <Glyph value="uni091D094D"/>
+            <Glyph value="uni091E094D"/>
+            <Glyph value="uni091F094D"/>
+            <Glyph value="uni0920094D"/>
+            <Glyph value="uni0921094D"/>
+            <Glyph value="uni0922094D"/>
+            <Glyph value="uni0923094D"/>
+            <Glyph value="uni0924094D"/>
+            <Glyph value="uni0924094D0924094D"/>
+            <Glyph value="uni0924094D0930094D"/>
+            <Glyph value="uni0925094D"/>
+            <Glyph value="uni0926094D"/>
+            <Glyph value="uni0927094D"/>
+            <Glyph value="uni0927094D0930094D"/>
+            <Glyph value="uni0928094D"/>
+            <Glyph value="uni0928094D0928094D"/>
+            <Glyph value="uni0929094D"/>
+            <Glyph value="uni092A094D"/>
+            <Glyph value="uni092B094D"/>
+            <Glyph value="uni092C094D"/>
+            <Glyph value="uni092D094D"/>
+            <Glyph value="uni092D094D0928094D"/>
+            <Glyph value="uni092D094D0930094D"/>
+            <Glyph value="uni092E094D"/>
+            <Glyph value="uni092E094D0928094D"/>
+            <Glyph value="uni092E094D0930094D"/>
+            <Glyph value="uni092F094D"/>
+            <Glyph value="uni092F094D0928094D"/>
+            <Glyph value="uni092F094D0930094D"/>
+            <Glyph value="uni0931094D"/>
+            <Glyph value="uni0932094D"/>
+            <Glyph value="uni0933094D"/>
+            <Glyph value="uni0934094D"/>
+            <Glyph value="uni0935094D"/>
+            <Glyph value="uni0935094D0928094D"/>
+            <Glyph value="uni0935094D0930094D"/>
+            <Glyph value="uni0936094D"/>
+            <Glyph value="uni0936094D0930094D"/>
+            <Glyph value="uni0937094D"/>
+            <Glyph value="uni0938094D"/>
+            <Glyph value="uni0939094D"/>
+            <Glyph value="uni0958094D"/>
+            <Glyph value="uni0959094D"/>
+            <Glyph value="uni095A094D"/>
+            <Glyph value="uni095B094D"/>
+            <Glyph value="uni095E094D"/>
+            <Glyph value="uni091C094D091C094D.alt"/>
+            <Glyph value="uni0936094D.loclMAR"/>
+            <Glyph value="uni0936094D.ss02"/>
+          </LookAheadCoverage>
+          <LookAheadCoverage index="1" Format="2">
+            <Glyph value="kadeva"/>
+            <Glyph value="khadeva"/>
+            <Glyph value="gadeva"/>
+            <Glyph value="ghadeva"/>
+            <Glyph value="ngadeva"/>
+            <Glyph value="cadeva"/>
+            <Glyph value="chadeva"/>
+            <Glyph value="jadeva"/>
+            <Glyph value="jhadeva"/>
+            <Glyph value="nyadeva"/>
+            <Glyph value="ttadeva"/>
+            <Glyph value="tthadeva"/>
+            <Glyph value="ddadeva"/>
+            <Glyph value="ddhadeva"/>
+            <Glyph value="nnadeva"/>
+            <Glyph value="tadeva"/>
+            <Glyph value="thadeva"/>
+            <Glyph value="dadeva"/>
+            <Glyph value="dhadeva"/>
+            <Glyph value="nadeva"/>
+            <Glyph value="nnnadeva"/>
+            <Glyph value="padeva"/>
+            <Glyph value="uni092B"/>
+            <Glyph value="uni092C"/>
+            <Glyph value="bhadeva"/>
+            <Glyph value="madeva"/>
+            <Glyph value="uni092F"/>
+            <Glyph value="radeva"/>
+            <Glyph value="rradeva"/>
+            <Glyph value="uni0932"/>
+            <Glyph value="lladeva"/>
+            <Glyph value="llladeva"/>
+            <Glyph value="vadeva"/>
+            <Glyph value="shadeva"/>
+            <Glyph value="ssadeva"/>
+            <Glyph value="sadeva"/>
+            <Glyph value="hadeva"/>
+            <Glyph value="qadeva"/>
+            <Glyph value="khhadeva"/>
+            <Glyph value="ghhadeva"/>
+            <Glyph value="zadeva"/>
+            <Glyph value="dddhadeva"/>
+            <Glyph value="rhadeva"/>
+            <Glyph value="fadeva"/>
+            <Glyph value="yyadeva"/>
+            <Glyph value="uni0979"/>
+            <Glyph value="uni097A"/>
+            <Glyph value="uni097B"/>
+            <Glyph value="uni097C"/>
+            <Glyph value="uni097E"/>
+            <Glyph value="uni097F"/>
+            <Glyph value="uni0932.loclMAR"/>
+            <Glyph value="shadeva.loclMAR"/>
+            <Glyph value="uni092F.post"/>
+            <Glyph value="vadeva.post"/>
+            <Glyph value="nadeva.post2"/>
+            <Glyph value="radeva.post2"/>
+          </LookAheadCoverage>
+          <LookAheadCoverage index="2" Format="1">
+            <Glyph value="uni0930094D0902"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="36"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="4" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="1">
+            <Glyph value="uni093F0930094D"/>
+            <Glyph value="uni093F0930094D0902"/>
+            <Glyph value="uni093F0930094D.0"/>
+            <Glyph value="uni093F0930094D0902.0"/>
+            <Glyph value="uni093F0930094D.01"/>
+            <Glyph value="uni093F0930094D0902.01"/>
+            <Glyph value="uni093F0930094D.02"/>
+            <Glyph value="uni093F0930094D0902.02"/>
+            <Glyph value="uni093F0930094D.03"/>
+            <Glyph value="uni093F0930094D0902.03"/>
+            <Glyph value="uni093F0930094D.05"/>
+            <Glyph value="uni093F0930094D0902.05"/>
+            <Glyph value="uni093F0930094D.08"/>
+            <Glyph value="uni093F0930094D0902.08"/>
+            <Glyph value="uni093F0930094D.10"/>
+            <Glyph value="uni093F0930094D0902.10"/>
+            <Glyph value="uni093F0930094D.15"/>
+            <Glyph value="uni093F0930094D0902.15"/>
+            <Glyph value="uni093F0930094D.20"/>
+            <Glyph value="uni093F0930094D0902.20"/>
+            <Glyph value="uni093F0930094D.25"/>
+            <Glyph value="uni093F0930094D0902.25"/>
+            <Glyph value="uni093F0930094D.30"/>
+            <Glyph value="uni093F0930094D0902.30"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="2">
+            <Glyph value="kadeva"/>
+            <Glyph value="khadeva"/>
+            <Glyph value="gadeva"/>
+            <Glyph value="ghadeva"/>
+            <Glyph value="ngadeva"/>
+            <Glyph value="cadeva"/>
+            <Glyph value="chadeva"/>
+            <Glyph value="jadeva"/>
+            <Glyph value="jhadeva"/>
+            <Glyph value="nyadeva"/>
+            <Glyph value="ttadeva"/>
+            <Glyph value="tthadeva"/>
+            <Glyph value="ddadeva"/>
+            <Glyph value="ddhadeva"/>
+            <Glyph value="nnadeva"/>
+            <Glyph value="tadeva"/>
+            <Glyph value="thadeva"/>
+            <Glyph value="dadeva"/>
+            <Glyph value="dhadeva"/>
+            <Glyph value="nadeva"/>
+            <Glyph value="nnnadeva"/>
+            <Glyph value="padeva"/>
+            <Glyph value="uni092B"/>
+            <Glyph value="uni092C"/>
+            <Glyph value="bhadeva"/>
+            <Glyph value="madeva"/>
+            <Glyph value="uni092F"/>
+            <Glyph value="radeva"/>
+            <Glyph value="rradeva"/>
+            <Glyph value="uni0932"/>
+            <Glyph value="lladeva"/>
+            <Glyph value="llladeva"/>
+            <Glyph value="vadeva"/>
+            <Glyph value="shadeva"/>
+            <Glyph value="ssadeva"/>
+            <Glyph value="sadeva"/>
+            <Glyph value="hadeva"/>
+            <Glyph value="qadeva"/>
+            <Glyph value="khhadeva"/>
+            <Glyph value="ghhadeva"/>
+            <Glyph value="zadeva"/>
+            <Glyph value="dddhadeva"/>
+            <Glyph value="rhadeva"/>
+            <Glyph value="fadeva"/>
+            <Glyph value="yyadeva"/>
+            <Glyph value="uni0979"/>
+            <Glyph value="uni097A"/>
+            <Glyph value="uni097B"/>
+            <Glyph value="uni097C"/>
+            <Glyph value="uni097E"/>
+            <Glyph value="uni097F"/>
+            <Glyph value="uni0932.loclMAR"/>
+            <Glyph value="shadeva.loclMAR"/>
+            <Glyph value="uni092F.post"/>
+            <Glyph value="vadeva.post"/>
+            <Glyph value="nadeva.post2"/>
+            <Glyph value="radeva.post2"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="uni0930094D"/>
+            <Glyph value="uni0930094D0902"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="2"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="5" Format="3">
+          <!-- BacktrackGlyphCount=2 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="uni0915094D"/>
+            <Glyph value="uni0915094D0937094D"/>
+            <Glyph value="uni0916094D"/>
+            <Glyph value="uni0917094D"/>
+            <Glyph value="uni0917094D0928094D"/>
+            <Glyph value="uni0917094D0930094D"/>
+            <Glyph value="uni0918094D"/>
+            <Glyph value="uni0918094D0930094D"/>
+            <Glyph value="uni0919094D"/>
+            <Glyph value="uni0919094D0915094D"/>
+            <Glyph value="uni091A094D"/>
+            <Glyph value="uni091B094D"/>
+            <Glyph value="uni091C094D"/>
+            <Glyph value="uni091C094D091E094D"/>
+            <Glyph value="uni091C094D0930094D"/>
+            <Glyph value="uni091D094D"/>
+            <Glyph value="uni091E094D"/>
+            <Glyph value="uni091F094D"/>
+            <Glyph value="uni0920094D"/>
+            <Glyph value="uni0921094D"/>
+            <Glyph value="uni0922094D"/>
+            <Glyph value="uni0923094D"/>
+            <Glyph value="uni0924094D"/>
+            <Glyph value="uni0924094D0924094D"/>
+            <Glyph value="uni0924094D0930094D"/>
+            <Glyph value="uni0925094D"/>
+            <Glyph value="uni0926094D"/>
+            <Glyph value="uni0927094D"/>
+            <Glyph value="uni0927094D0930094D"/>
+            <Glyph value="uni0928094D"/>
+            <Glyph value="uni0928094D0928094D"/>
+            <Glyph value="uni0929094D"/>
+            <Glyph value="uni092A094D"/>
+            <Glyph value="uni092B094D"/>
+            <Glyph value="uni092C094D"/>
+            <Glyph value="uni092D094D"/>
+            <Glyph value="uni092D094D0928094D"/>
+            <Glyph value="uni092D094D0930094D"/>
+            <Glyph value="uni092E094D"/>
+            <Glyph value="uni092E094D0928094D"/>
+            <Glyph value="uni092E094D0930094D"/>
+            <Glyph value="uni092F094D"/>
+            <Glyph value="uni092F094D0928094D"/>
+            <Glyph value="uni092F094D0930094D"/>
+            <Glyph value="uni0931094D"/>
+            <Glyph value="uni0932094D"/>
+            <Glyph value="uni0933094D"/>
+            <Glyph value="uni0934094D"/>
+            <Glyph value="uni0935094D"/>
+            <Glyph value="uni0935094D0928094D"/>
+            <Glyph value="uni0935094D0930094D"/>
+            <Glyph value="uni0936094D"/>
+            <Glyph value="uni0936094D0930094D"/>
+            <Glyph value="uni0937094D"/>
+            <Glyph value="uni0938094D"/>
+            <Glyph value="uni0939094D"/>
+            <Glyph value="uni0958094D"/>
+            <Glyph value="uni0959094D"/>
+            <Glyph value="uni095A094D"/>
+            <Glyph value="uni095B094D"/>
+            <Glyph value="uni095E094D"/>
+            <Glyph value="uni091C094D091C094D.alt"/>
+            <Glyph value="uni0936094D.loclMAR"/>
+            <Glyph value="uni0936094D.ss02"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1" Format="1">
+            <Glyph value="uni093F0930094D"/>
+            <Glyph value="uni093F0930094D0902"/>
+            <Glyph value="uni093F0930094D.0"/>
+            <Glyph value="uni093F0930094D0902.0"/>
+            <Glyph value="uni093F0930094D.01"/>
+            <Glyph value="uni093F0930094D0902.01"/>
+            <Glyph value="uni093F0930094D.02"/>
+            <Glyph value="uni093F0930094D0902.02"/>
+            <Glyph value="uni093F0930094D.03"/>
+            <Glyph value="uni093F0930094D0902.03"/>
+            <Glyph value="uni093F0930094D.05"/>
+            <Glyph value="uni093F0930094D0902.05"/>
+            <Glyph value="uni093F0930094D.08"/>
+            <Glyph value="uni093F0930094D0902.08"/>
+            <Glyph value="uni093F0930094D.10"/>
+            <Glyph value="uni093F0930094D0902.10"/>
+            <Glyph value="uni093F0930094D.15"/>
+            <Glyph value="uni093F0930094D0902.15"/>
+            <Glyph value="uni093F0930094D.20"/>
+            <Glyph value="uni093F0930094D0902.20"/>
+            <Glyph value="uni093F0930094D.25"/>
+            <Glyph value="uni093F0930094D0902.25"/>
+            <Glyph value="uni093F0930094D.30"/>
+            <Glyph value="uni093F0930094D0902.30"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=2 -->
+          <InputCoverage index="0" Format="2">
+            <Glyph value="kadeva"/>
+            <Glyph value="khadeva"/>
+            <Glyph value="gadeva"/>
+            <Glyph value="ghadeva"/>
+            <Glyph value="ngadeva"/>
+            <Glyph value="cadeva"/>
+            <Glyph value="chadeva"/>
+            <Glyph value="jadeva"/>
+            <Glyph value="jhadeva"/>
+            <Glyph value="nyadeva"/>
+            <Glyph value="ttadeva"/>
+            <Glyph value="tthadeva"/>
+            <Glyph value="ddadeva"/>
+            <Glyph value="ddhadeva"/>
+            <Glyph value="nnadeva"/>
+            <Glyph value="tadeva"/>
+            <Glyph value="thadeva"/>
+            <Glyph value="dadeva"/>
+            <Glyph value="dhadeva"/>
+            <Glyph value="nadeva"/>
+            <Glyph value="nnnadeva"/>
+            <Glyph value="padeva"/>
+            <Glyph value="uni092B"/>
+            <Glyph value="uni092C"/>
+            <Glyph value="bhadeva"/>
+            <Glyph value="madeva"/>
+            <Glyph value="uni092F"/>
+            <Glyph value="radeva"/>
+            <Glyph value="rradeva"/>
+            <Glyph value="uni0932"/>
+            <Glyph value="lladeva"/>
+            <Glyph value="llladeva"/>
+            <Glyph value="vadeva"/>
+            <Glyph value="shadeva"/>
+            <Glyph value="ssadeva"/>
+            <Glyph value="sadeva"/>
+            <Glyph value="hadeva"/>
+            <Glyph value="qadeva"/>
+            <Glyph value="khhadeva"/>
+            <Glyph value="ghhadeva"/>
+            <Glyph value="zadeva"/>
+            <Glyph value="dddhadeva"/>
+            <Glyph value="rhadeva"/>
+            <Glyph value="fadeva"/>
+            <Glyph value="yyadeva"/>
+            <Glyph value="uni0979"/>
+            <Glyph value="uni097A"/>
+            <Glyph value="uni097B"/>
+            <Glyph value="uni097C"/>
+            <Glyph value="uni097E"/>
+            <Glyph value="uni097F"/>
+            <Glyph value="uni0932.loclMAR"/>
+            <Glyph value="shadeva.loclMAR"/>
+            <Glyph value="uni092F.post"/>
+            <Glyph value="vadeva.post"/>
+            <Glyph value="nadeva.post2"/>
+            <Glyph value="radeva.post2"/>
+          </InputCoverage>
+          <InputCoverage index="1" Format="1">
+            <Glyph value="uni0930094D"/>
+            <Glyph value="uni0930094D0902"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="2"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="6" Format="3">
+          <!-- BacktrackGlyphCount=2 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="kadeva"/>
+            <Glyph value="khadeva"/>
+            <Glyph value="gadeva"/>
+            <Glyph value="ghadeva"/>
+            <Glyph value="ngadeva"/>
+            <Glyph value="cadeva"/>
+            <Glyph value="chadeva"/>
+            <Glyph value="jadeva"/>
+            <Glyph value="jhadeva"/>
+            <Glyph value="nyadeva"/>
+            <Glyph value="ttadeva"/>
+            <Glyph value="tthadeva"/>
+            <Glyph value="ddadeva"/>
+            <Glyph value="ddhadeva"/>
+            <Glyph value="nnadeva"/>
+            <Glyph value="tadeva"/>
+            <Glyph value="thadeva"/>
+            <Glyph value="dadeva"/>
+            <Glyph value="dhadeva"/>
+            <Glyph value="nadeva"/>
+            <Glyph value="nnnadeva"/>
+            <Glyph value="padeva"/>
+            <Glyph value="uni092B"/>
+            <Glyph value="uni092C"/>
+            <Glyph value="bhadeva"/>
+            <Glyph value="madeva"/>
+            <Glyph value="uni092F"/>
+            <Glyph value="radeva"/>
+            <Glyph value="rradeva"/>
+            <Glyph value="uni0932"/>
+            <Glyph value="lladeva"/>
+            <Glyph value="llladeva"/>
+            <Glyph value="vadeva"/>
+            <Glyph value="shadeva"/>
+            <Glyph value="ssadeva"/>
+            <Glyph value="sadeva"/>
+            <Glyph value="hadeva"/>
+            <Glyph value="qadeva"/>
+            <Glyph value="khhadeva"/>
+            <Glyph value="ghhadeva"/>
+            <Glyph value="zadeva"/>
+            <Glyph value="dddhadeva"/>
+            <Glyph value="rhadeva"/>
+            <Glyph value="fadeva"/>
+            <Glyph value="yyadeva"/>
+            <Glyph value="uni0979"/>
+            <Glyph value="uni097A"/>
+            <Glyph value="uni097B"/>
+            <Glyph value="uni097C"/>
+            <Glyph value="uni097E"/>
+            <Glyph value="uni097F"/>
+            <Glyph value="uni0932.loclMAR"/>
+            <Glyph value="shadeva.loclMAR"/>
+            <Glyph value="uni092F.post"/>
+            <Glyph value="vadeva.post"/>
+            <Glyph value="nadeva.post2"/>
+            <Glyph value="radeva.post2"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1" Format="1">
+            <Glyph value="uni093F"/>
+            <Glyph value="uni093F.0"/>
+            <Glyph value="uni093F.01"/>
+            <Glyph value="uni093F.02"/>
+            <Glyph value="uni093F.03"/>
+            <Glyph value="uni093F.05"/>
+            <Glyph value="uni093F.08"/>
+            <Glyph value="uni093F.10"/>
+            <Glyph value="uni093F.15"/>
+            <Glyph value="uni093F.20"/>
+            <Glyph value="uni093F.25"/>
+            <Glyph value="uni093F.30"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="anusvaradeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="36"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="7" Format="3">
+          <!-- BacktrackGlyphCount=3 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="kadeva"/>
+            <Glyph value="khadeva"/>
+            <Glyph value="gadeva"/>
+            <Glyph value="ghadeva"/>
+            <Glyph value="ngadeva"/>
+            <Glyph value="cadeva"/>
+            <Glyph value="chadeva"/>
+            <Glyph value="jadeva"/>
+            <Glyph value="jhadeva"/>
+            <Glyph value="nyadeva"/>
+            <Glyph value="ttadeva"/>
+            <Glyph value="tthadeva"/>
+            <Glyph value="ddadeva"/>
+            <Glyph value="ddhadeva"/>
+            <Glyph value="nnadeva"/>
+            <Glyph value="tadeva"/>
+            <Glyph value="thadeva"/>
+            <Glyph value="dadeva"/>
+            <Glyph value="dhadeva"/>
+            <Glyph value="nadeva"/>
+            <Glyph value="nnnadeva"/>
+            <Glyph value="padeva"/>
+            <Glyph value="uni092B"/>
+            <Glyph value="uni092C"/>
+            <Glyph value="bhadeva"/>
+            <Glyph value="madeva"/>
+            <Glyph value="uni092F"/>
+            <Glyph value="radeva"/>
+            <Glyph value="rradeva"/>
+            <Glyph value="uni0932"/>
+            <Glyph value="lladeva"/>
+            <Glyph value="llladeva"/>
+            <Glyph value="vadeva"/>
+            <Glyph value="shadeva"/>
+            <Glyph value="ssadeva"/>
+            <Glyph value="sadeva"/>
+            <Glyph value="hadeva"/>
+            <Glyph value="qadeva"/>
+            <Glyph value="khhadeva"/>
+            <Glyph value="ghhadeva"/>
+            <Glyph value="zadeva"/>
+            <Glyph value="dddhadeva"/>
+            <Glyph value="rhadeva"/>
+            <Glyph value="fadeva"/>
+            <Glyph value="yyadeva"/>
+            <Glyph value="uni0979"/>
+            <Glyph value="uni097A"/>
+            <Glyph value="uni097B"/>
+            <Glyph value="uni097C"/>
+            <Glyph value="uni097E"/>
+            <Glyph value="uni097F"/>
+            <Glyph value="uni0932.loclMAR"/>
+            <Glyph value="shadeva.loclMAR"/>
+            <Glyph value="uni092F.post"/>
+            <Glyph value="vadeva.post"/>
+            <Glyph value="nadeva.post2"/>
+            <Glyph value="radeva.post2"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1" Format="2">
+            <Glyph value="uni0915094D"/>
+            <Glyph value="uni0915094D0937094D"/>
+            <Glyph value="uni0916094D"/>
+            <Glyph value="uni0917094D"/>
+            <Glyph value="uni0917094D0928094D"/>
+            <Glyph value="uni0917094D0930094D"/>
+            <Glyph value="uni0918094D"/>
+            <Glyph value="uni0918094D0930094D"/>
+            <Glyph value="uni0919094D"/>
+            <Glyph value="uni0919094D0915094D"/>
+            <Glyph value="uni091A094D"/>
+            <Glyph value="uni091B094D"/>
+            <Glyph value="uni091C094D"/>
+            <Glyph value="uni091C094D091E094D"/>
+            <Glyph value="uni091C094D0930094D"/>
+            <Glyph value="uni091D094D"/>
+            <Glyph value="uni091E094D"/>
+            <Glyph value="uni091F094D"/>
+            <Glyph value="uni0920094D"/>
+            <Glyph value="uni0921094D"/>
+            <Glyph value="uni0922094D"/>
+            <Glyph value="uni0923094D"/>
+            <Glyph value="uni0924094D"/>
+            <Glyph value="uni0924094D0924094D"/>
+            <Glyph value="uni0924094D0930094D"/>
+            <Glyph value="uni0925094D"/>
+            <Glyph value="uni0926094D"/>
+            <Glyph value="uni0927094D"/>
+            <Glyph value="uni0927094D0930094D"/>
+            <Glyph value="uni0928094D"/>
+            <Glyph value="uni0928094D0928094D"/>
+            <Glyph value="uni0929094D"/>
+            <Glyph value="uni092A094D"/>
+            <Glyph value="uni092B094D"/>
+            <Glyph value="uni092C094D"/>
+            <Glyph value="uni092D094D"/>
+            <Glyph value="uni092D094D0928094D"/>
+            <Glyph value="uni092D094D0930094D"/>
+            <Glyph value="uni092E094D"/>
+            <Glyph value="uni092E094D0928094D"/>
+            <Glyph value="uni092E094D0930094D"/>
+            <Glyph value="uni092F094D"/>
+            <Glyph value="uni092F094D0928094D"/>
+            <Glyph value="uni092F094D0930094D"/>
+            <Glyph value="uni0931094D"/>
+            <Glyph value="uni0932094D"/>
+            <Glyph value="uni0933094D"/>
+            <Glyph value="uni0934094D"/>
+            <Glyph value="uni0935094D"/>
+            <Glyph value="uni0935094D0928094D"/>
+            <Glyph value="uni0935094D0930094D"/>
+            <Glyph value="uni0936094D"/>
+            <Glyph value="uni0936094D0930094D"/>
+            <Glyph value="uni0937094D"/>
+            <Glyph value="uni0938094D"/>
+            <Glyph value="uni0939094D"/>
+            <Glyph value="uni0958094D"/>
+            <Glyph value="uni0959094D"/>
+            <Glyph value="uni095A094D"/>
+            <Glyph value="uni095B094D"/>
+            <Glyph value="uni095E094D"/>
+            <Glyph value="uni091C094D091C094D.alt"/>
+            <Glyph value="uni0936094D.loclMAR"/>
+            <Glyph value="uni0936094D.ss02"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="2" Format="1">
+            <Glyph value="uni093F"/>
+            <Glyph value="uni093F.0"/>
+            <Glyph value="uni093F.01"/>
+            <Glyph value="uni093F.02"/>
+            <Glyph value="uni093F.03"/>
+            <Glyph value="uni093F.05"/>
+            <Glyph value="uni093F.08"/>
+            <Glyph value="uni093F.10"/>
+            <Glyph value="uni093F.15"/>
+            <Glyph value="uni093F.20"/>
+            <Glyph value="uni093F.25"/>
+            <Glyph value="uni093F.30"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="anusvaradeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="36"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="8" Format="3">
+          <!-- BacktrackGlyphCount=4 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="kadeva"/>
+            <Glyph value="khadeva"/>
+            <Glyph value="gadeva"/>
+            <Glyph value="ghadeva"/>
+            <Glyph value="ngadeva"/>
+            <Glyph value="cadeva"/>
+            <Glyph value="chadeva"/>
+            <Glyph value="jadeva"/>
+            <Glyph value="jhadeva"/>
+            <Glyph value="nyadeva"/>
+            <Glyph value="ttadeva"/>
+            <Glyph value="tthadeva"/>
+            <Glyph value="ddadeva"/>
+            <Glyph value="ddhadeva"/>
+            <Glyph value="nnadeva"/>
+            <Glyph value="tadeva"/>
+            <Glyph value="thadeva"/>
+            <Glyph value="dadeva"/>
+            <Glyph value="dhadeva"/>
+            <Glyph value="nadeva"/>
+            <Glyph value="nnnadeva"/>
+            <Glyph value="padeva"/>
+            <Glyph value="uni092B"/>
+            <Glyph value="uni092C"/>
+            <Glyph value="bhadeva"/>
+            <Glyph value="madeva"/>
+            <Glyph value="uni092F"/>
+            <Glyph value="radeva"/>
+            <Glyph value="rradeva"/>
+            <Glyph value="uni0932"/>
+            <Glyph value="lladeva"/>
+            <Glyph value="llladeva"/>
+            <Glyph value="vadeva"/>
+            <Glyph value="shadeva"/>
+            <Glyph value="ssadeva"/>
+            <Glyph value="sadeva"/>
+            <Glyph value="hadeva"/>
+            <Glyph value="qadeva"/>
+            <Glyph value="khhadeva"/>
+            <Glyph value="ghhadeva"/>
+            <Glyph value="zadeva"/>
+            <Glyph value="dddhadeva"/>
+            <Glyph value="rhadeva"/>
+            <Glyph value="fadeva"/>
+            <Glyph value="yyadeva"/>
+            <Glyph value="uni0979"/>
+            <Glyph value="uni097A"/>
+            <Glyph value="uni097B"/>
+            <Glyph value="uni097C"/>
+            <Glyph value="uni097E"/>
+            <Glyph value="uni097F"/>
+            <Glyph value="uni0932.loclMAR"/>
+            <Glyph value="shadeva.loclMAR"/>
+            <Glyph value="uni092F.post"/>
+            <Glyph value="vadeva.post"/>
+            <Glyph value="nadeva.post2"/>
+            <Glyph value="radeva.post2"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="1" Format="2">
+            <Glyph value="uni0915094D"/>
+            <Glyph value="uni0915094D0937094D"/>
+            <Glyph value="uni0916094D"/>
+            <Glyph value="uni0917094D"/>
+            <Glyph value="uni0917094D0928094D"/>
+            <Glyph value="uni0917094D0930094D"/>
+            <Glyph value="uni0918094D"/>
+            <Glyph value="uni0918094D0930094D"/>
+            <Glyph value="uni0919094D"/>
+            <Glyph value="uni0919094D0915094D"/>
+            <Glyph value="uni091A094D"/>
+            <Glyph value="uni091B094D"/>
+            <Glyph value="uni091C094D"/>
+            <Glyph value="uni091C094D091E094D"/>
+            <Glyph value="uni091C094D0930094D"/>
+            <Glyph value="uni091D094D"/>
+            <Glyph value="uni091E094D"/>
+            <Glyph value="uni091F094D"/>
+            <Glyph value="uni0920094D"/>
+            <Glyph value="uni0921094D"/>
+            <Glyph value="uni0922094D"/>
+            <Glyph value="uni0923094D"/>
+            <Glyph value="uni0924094D"/>
+            <Glyph value="uni0924094D0924094D"/>
+            <Glyph value="uni0924094D0930094D"/>
+            <Glyph value="uni0925094D"/>
+            <Glyph value="uni0926094D"/>
+            <Glyph value="uni0927094D"/>
+            <Glyph value="uni0927094D0930094D"/>
+            <Glyph value="uni0928094D"/>
+            <Glyph value="uni0928094D0928094D"/>
+            <Glyph value="uni0929094D"/>
+            <Glyph value="uni092A094D"/>
+            <Glyph value="uni092B094D"/>
+            <Glyph value="uni092C094D"/>
+            <Glyph value="uni092D094D"/>
+            <Glyph value="uni092D094D0928094D"/>
+            <Glyph value="uni092D094D0930094D"/>
+            <Glyph value="uni092E094D"/>
+            <Glyph value="uni092E094D0928094D"/>
+            <Glyph value="uni092E094D0930094D"/>
+            <Glyph value="uni092F094D"/>
+            <Glyph value="uni092F094D0928094D"/>
+            <Glyph value="uni092F094D0930094D"/>
+            <Glyph value="uni0931094D"/>
+            <Glyph value="uni0932094D"/>
+            <Glyph value="uni0933094D"/>
+            <Glyph value="uni0934094D"/>
+            <Glyph value="uni0935094D"/>
+            <Glyph value="uni0935094D0928094D"/>
+            <Glyph value="uni0935094D0930094D"/>
+            <Glyph value="uni0936094D"/>
+            <Glyph value="uni0936094D0930094D"/>
+            <Glyph value="uni0937094D"/>
+            <Glyph value="uni0938094D"/>
+            <Glyph value="uni0939094D"/>
+            <Glyph value="uni0958094D"/>
+            <Glyph value="uni0959094D"/>
+            <Glyph value="uni095A094D"/>
+            <Glyph value="uni095B094D"/>
+            <Glyph value="uni095E094D"/>
+            <Glyph value="uni091C094D091C094D.alt"/>
+            <Glyph value="uni0936094D.loclMAR"/>
+            <Glyph value="uni0936094D.ss02"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="2" Format="2">
+            <Glyph value="uni0915094D"/>
+            <Glyph value="uni0915094D0937094D"/>
+            <Glyph value="uni0916094D"/>
+            <Glyph value="uni0917094D"/>
+            <Glyph value="uni0917094D0928094D"/>
+            <Glyph value="uni0917094D0930094D"/>
+            <Glyph value="uni0918094D"/>
+            <Glyph value="uni0918094D0930094D"/>
+            <Glyph value="uni0919094D"/>
+            <Glyph value="uni0919094D0915094D"/>
+            <Glyph value="uni091A094D"/>
+            <Glyph value="uni091B094D"/>
+            <Glyph value="uni091C094D"/>
+            <Glyph value="uni091C094D091E094D"/>
+            <Glyph value="uni091C094D0930094D"/>
+            <Glyph value="uni091D094D"/>
+            <Glyph value="uni091E094D"/>
+            <Glyph value="uni091F094D"/>
+            <Glyph value="uni0920094D"/>
+            <Glyph value="uni0921094D"/>
+            <Glyph value="uni0922094D"/>
+            <Glyph value="uni0923094D"/>
+            <Glyph value="uni0924094D"/>
+            <Glyph value="uni0924094D0924094D"/>
+            <Glyph value="uni0924094D0930094D"/>
+            <Glyph value="uni0925094D"/>
+            <Glyph value="uni0926094D"/>
+            <Glyph value="uni0927094D"/>
+            <Glyph value="uni0927094D0930094D"/>
+            <Glyph value="uni0928094D"/>
+            <Glyph value="uni0928094D0928094D"/>
+            <Glyph value="uni0929094D"/>
+            <Glyph value="uni092A094D"/>
+            <Glyph value="uni092B094D"/>
+            <Glyph value="uni092C094D"/>
+            <Glyph value="uni092D094D"/>
+            <Glyph value="uni092D094D0928094D"/>
+            <Glyph value="uni092D094D0930094D"/>
+            <Glyph value="uni092E094D"/>
+            <Glyph value="uni092E094D0928094D"/>
+            <Glyph value="uni092E094D0930094D"/>
+            <Glyph value="uni092F094D"/>
+            <Glyph value="uni092F094D0928094D"/>
+            <Glyph value="uni092F094D0930094D"/>
+            <Glyph value="uni0931094D"/>
+            <Glyph value="uni0932094D"/>
+            <Glyph value="uni0933094D"/>
+            <Glyph value="uni0934094D"/>
+            <Glyph value="uni0935094D"/>
+            <Glyph value="uni0935094D0928094D"/>
+            <Glyph value="uni0935094D0930094D"/>
+            <Glyph value="uni0936094D"/>
+            <Glyph value="uni0936094D0930094D"/>
+            <Glyph value="uni0937094D"/>
+            <Glyph value="uni0938094D"/>
+            <Glyph value="uni0939094D"/>
+            <Glyph value="uni0958094D"/>
+            <Glyph value="uni0959094D"/>
+            <Glyph value="uni095A094D"/>
+            <Glyph value="uni095B094D"/>
+            <Glyph value="uni095E094D"/>
+            <Glyph value="uni091C094D091C094D.alt"/>
+            <Glyph value="uni0936094D.loclMAR"/>
+            <Glyph value="uni0936094D.ss02"/>
+          </BacktrackCoverage>
+          <BacktrackCoverage index="3" Format="1">
+            <Glyph value="uni093F"/>
+            <Glyph value="uni093F.0"/>
+            <Glyph value="uni093F.01"/>
+            <Glyph value="uni093F.02"/>
+            <Glyph value="uni093F.03"/>
+            <Glyph value="uni093F.05"/>
+            <Glyph value="uni093F.08"/>
+            <Glyph value="uni093F.10"/>
+            <Glyph value="uni093F.15"/>
+            <Glyph value="uni093F.20"/>
+            <Glyph value="uni093F.25"/>
+            <Glyph value="uni093F.30"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="anusvaradeva"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="36"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="23">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="A" out="ordfeminine"/>
+          <Substitution in="O" out="ordmasculine"/>
+          <Substitution in="a" out="ordfeminine"/>
+          <Substitution in="candrabindudeva" out="candrabindudeva.imatra"/>
+          <Substitution in="o" out="ordmasculine"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="24">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="viramadeva">
+            <Ligature components="radeva" glyph="uni094D0930"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="25">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni093F" out="uni093F.0"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="26">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni093F" out="uni093F"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="27">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni093F" out="uni093F.02"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="28">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni093F" out="uni093F.03"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="29">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni093F" out="uni093F.05"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="30">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni093F" out="uni093F.08"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="31">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni093F" out="uni093F.10"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="32">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni093F" out="uni093F.15"/>
+          <Substitution in="uni0940" out="uni0940.02"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="33">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni093F" out="uni093F0930094D"/>
+          <Substitution in="uni093F.0" out="uni093F0930094D.0"/>
+          <Substitution in="uni093F.01" out="uni093F0930094D.01"/>
+          <Substitution in="uni093F.02" out="uni093F0930094D.02"/>
+          <Substitution in="uni093F.03" out="uni093F0930094D.03"/>
+          <Substitution in="uni093F.05" out="uni093F0930094D.05"/>
+          <Substitution in="uni093F.08" out="uni093F0930094D.08"/>
+          <Substitution in="uni093F.10" out="uni093F0930094D.10"/>
+          <Substitution in="uni093F.15" out="uni093F0930094D.15"/>
+          <Substitution in="uni093F.20" out="uni093F0930094D.20"/>
+          <Substitution in="uni093F.25" out="uni093F0930094D.25"/>
+          <Substitution in="uni093F.30" out="uni093F0930094D.30"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="34">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni093F" out="uni093F0930094D0902"/>
+          <Substitution in="uni093F.0" out="uni093F0930094D0902.0"/>
+          <Substitution in="uni093F.01" out="uni093F0930094D0902.01"/>
+          <Substitution in="uni093F.02" out="uni093F0930094D0902.02"/>
+          <Substitution in="uni093F.03" out="uni093F0930094D0902.03"/>
+          <Substitution in="uni093F.05" out="uni093F0930094D0902.05"/>
+          <Substitution in="uni093F.08" out="uni093F0930094D0902.08"/>
+          <Substitution in="uni093F.10" out="uni093F0930094D0902.10"/>
+          <Substitution in="uni093F.15" out="uni093F0930094D0902.15"/>
+          <Substitution in="uni093F.20" out="uni093F0930094D0902.20"/>
+          <Substitution in="uni093F.25" out="uni093F0930094D0902.25"/>
+          <Substitution in="uni093F.30" out="uni093F0930094D0902.30"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="35">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni093F" out="uni093F0930094D"/>
+          <Substitution in="uni093F.0" out="uni093F0930094D.0"/>
+          <Substitution in="uni093F.01" out="uni093F0930094D.01"/>
+          <Substitution in="uni093F.02" out="uni093F0930094D.02"/>
+          <Substitution in="uni093F.03" out="uni093F0930094D.03"/>
+          <Substitution in="uni093F.05" out="uni093F0930094D.05"/>
+          <Substitution in="uni093F.08" out="uni093F0930094D.08"/>
+          <Substitution in="uni093F.10" out="uni093F0930094D.10"/>
+          <Substitution in="uni093F.15" out="uni093F0930094D.15"/>
+          <Substitution in="uni093F.20" out="uni093F0930094D.20"/>
+          <Substitution in="uni093F.25" out="uni093F0930094D.25"/>
+          <Substitution in="uni093F.30" out="uni093F0930094D.30"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="36">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="anusvaradeva" out="anusvaradeva.001"/>
+          <Substitution in="uni093F" out="uni093F0930094D0902"/>
+          <Substitution in="uni093F.0" out="uni093F0930094D0902.0"/>
+          <Substitution in="uni093F.01" out="uni093F0930094D0902.01"/>
+          <Substitution in="uni093F.02" out="uni093F0930094D0902.02"/>
+          <Substitution in="uni093F.03" out="uni093F0930094D0902.03"/>
+          <Substitution in="uni093F.05" out="uni093F0930094D0902.05"/>
+          <Substitution in="uni093F.08" out="uni093F0930094D0902.08"/>
+          <Substitution in="uni093F.10" out="uni093F0930094D0902.10"/>
+          <Substitution in="uni093F.15" out="uni093F0930094D0902.15"/>
+          <Substitution in="uni093F.20" out="uni093F0930094D0902.20"/>
+          <Substitution in="uni093F.25" out="uni093F0930094D0902.25"/>
+          <Substitution in="uni093F.30" out="uni093F0930094D0902.30"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>

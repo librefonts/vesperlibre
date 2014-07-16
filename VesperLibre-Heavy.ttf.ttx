@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="VesperLibre-Heavy.ttf.GlyphOrder.ttx"/>
+  <head src="VesperLibre-Heavy.ttf._h_e_a_d.ttx"/>
+  <hhea src="VesperLibre-Heavy.ttf._h_h_e_a.ttx"/>
+  <maxp src="VesperLibre-Heavy.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="VesperLibre-Heavy.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="VesperLibre-Heavy.ttf._h_m_t_x.ttx"/>
+  <cmap src="VesperLibre-Heavy.ttf._c_m_a_p.ttx"/>
+  <loca src="VesperLibre-Heavy.ttf._l_o_c_a.ttx"/>
+  <glyf src="VesperLibre-Heavy.ttf._g_l_y_f.ttx"/>
+  <name src="VesperLibre-Heavy.ttf._n_a_m_e.ttx"/>
+  <post src="VesperLibre-Heavy.ttf._p_o_s_t.ttx"/>
+  <gasp src="VesperLibre-Heavy.ttf._g_a_s_p.ttx"/>
+  <GDEF src="VesperLibre-Heavy.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="VesperLibre-Heavy.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="VesperLibre-Heavy.ttf.G_S_U_B_.ttx"/>
+</ttFont>
