@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [VesperLibre-Regular.ttf.ttx, VesperLibre-Heavy.ttf.ttx, VesperLibre-Bold.ttf.ttx,
+  VesperLibre-Medium.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

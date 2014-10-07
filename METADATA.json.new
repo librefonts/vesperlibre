@@ -1,0 +1,51 @@
+{
+  "name": "Vesper Libre",
+  "designer": "Mota Italic",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Serif",
+  "size": 77365,
+  "fonts": [
+    {
+      "name": "Vesper Devanagari Libre",
+      "style": "normal",
+      "weight": 900,
+      "filename": "VesperDevanagariLibre-Heavy.ttf",
+      "postScriptName": "VesperDevanagariLibre-Heavy",
+      "fullName": "Vesper Devanagari Libre Heavy",
+      "copyright": "Copyright (c) 2014 by Robert Keller."
+    },
+    {
+      "name": "Vesper Devanagari Libre",
+      "style": "normal",
+      "weight": 400,
+      "filename": "VesperDevanagariLibre-Regular.ttf",
+      "postScriptName": "VesperDevanagariLibre-Regular",
+      "fullName": "Vesper Devanagari Libre",
+      "copyright": "Copyright (c) 2014 by Robert Keller."
+    },
+    {
+      "name": "Vesper Devanagari Libre",
+      "style": "normal",
+      "weight": 500,
+      "filename": "VesperDevanagariLibre-Medium.ttf",
+      "postScriptName": "VesperDevanagariLibre-Medium",
+      "fullName": "Vesper Devanagari Libre Medium",
+      "copyright": "Copyright (c) 2014 by Robert Keller."
+    },
+    {
+      "name": "Vesper Devanagari Libre",
+      "style": "normal",
+      "weight": 700,
+      "filename": "VesperDevanagariLibre-Bold.ttf",
+      "postScriptName": "VesperDevanagariLibre-Bold",
+      "fullName": "Vesper Devanagari Libre Bold",
+      "copyright": "Copyright (c) 2014 by Robert Keller."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-07-14"
+}

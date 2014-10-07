@@ -1,0 +1,182 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Vesper Devanagari Libre
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2014 by Robert Keller.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.008; ttfautohint (v1.1) -d
+    Vendor: Mota Italic
+    Vendor url: www.motaitalic.com
+    Designer: Rob Keller & Kimya Gandhi
+    Designer url: www.motaitalic.com
+    Glyph count: 769
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 72
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+  Font:
+    Common name: Vesper Devanagari Libre Medium
+    Sub family: Heavy
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2014 by Robert Keller.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.008; ttfautohint (v1.1) -d
+    Vendor: Mota Italic
+    Vendor url: www.motaitalic.com
+    Designer: Rob Keller & Kimya Gandhi
+    Designer url: www.motaitalic.com
+    Glyph count: 769
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 72
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+  Font:
+    Common name: Vesper Devanagari Libre
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2014 by Robert Keller.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.008; ttfautohint (v1.1) -d
+    Vendor: Mota Italic
+    Vendor url: www.motaitalic.com
+    Designer: Rob Keller & Kimya Gandhi
+    Designer url: www.motaitalic.com
+    Glyph count: 769
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 72
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+  Font:
+    Common name: Vesper Devanagari Libre Medium
+    Sub family: Medium
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2014 by Robert Keller.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.008; ttfautohint (v1.1) -d
+    Vendor: Mota Italic
+    Vendor url: www.motaitalic.com
+    Designer: Rob Keller & Kimya Gandhi
+    Designer url: www.motaitalic.com
+    Glyph count: 769
+    Character count: 453
+    Orthographies:
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 10
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 72
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
